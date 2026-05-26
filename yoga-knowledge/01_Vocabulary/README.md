@@ -10,3 +10,6 @@ tags: [yoga, vocabulary, index]
 ## Entries
 - [[pranayama]] — プラーナーヤーマ（Prāṇāyāma）
 - [[ahimsa]] — アヒムサー（Ahiṃsā）
+- [[citta]] — チッタ（Citta）
+- [[vritti]] — ヴリッティ（Vṛtti）
+- [[nirodha]] — ニローダ（Nirodha）
