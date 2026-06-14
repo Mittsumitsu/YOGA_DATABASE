@@ -1,0 +1,38 @@
+---
+created: 2026-06-14
+tags: [yoga, asana, hatha, hyp]
+sanskrit: kukkuṭāsana
+katakana: クッカターサナ
+classification: 区分A（HYP確認済み）
+source: 05_Sources/HYP_Svatmarama_fulltext.md
+hyp_chapter: 1
+hyp_section: Kukkuta āsana
+---
+
+# クッカターサナ（kukkuṭāsana）
+
+## 区分
+**区分A — HYP確認済み**（HYP 第1章「Kukkuta āsana」）
+
+## 読み
+クッカターサナ
+
+## 語源
+kukkuṭa（クッカタ / 雄鶏・鶏）＋ āsana（アーサナ / 座法）。
+直訳は「鶏の座法」。
+
+## 原典記述（HYP 第1章）
+
+> Taking the posture of Padmā-āsana and carrying the hands under the thighs, when the Yogi or Yogini raises himself or herself above the ground, with his or her palms resting on the ground, it becomes Kukkuta-āsana.
+
+*出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 1, Kukkuta āsana*
+
+## 解説
+[[04_Asana/padmasana|Padmāsana]]（ロータスポーズ）の姿勢をとり、両手を腿の下に差し込んで地面に手のひらをつけ、身体を持ち上げる腕支持のアーサナ。
+Padmāsanaを前提とするため、[[04_Asana/uttanakurmasana|Uttānakūrmāsana]]（ウッターナ・クールマーサナ）の基礎とも位置づけられる。
+
+## 関連
+- [[01_Vocabulary/asana]]
+- [[04_Asana/padmasana]]
+- [[04_Asana/kurmasana]]
+- [[04_Asana/uttanakurmasana]]
