@@ -1,12 +1,16 @@
 ---
 created: 2026-05-26
 tags: [yoga, asana]
-sanskrit: Tāḍāsana
+sanskrit: tāḍāsana
 katakana: ターダーサナ
 aliases: [山のポーズ, Mountain Pose]
+classification: 区分C（現代名称）
 ---
 
-# ターダーサナ（Tāḍāsana）
+# ターダーサナ（tāḍāsana）
+
+## 区分
+**区分C — 現代名称**（HYP・YS・BG に名称の記載なし）
 
 ## カタカナ読み
 ターダーサナ
