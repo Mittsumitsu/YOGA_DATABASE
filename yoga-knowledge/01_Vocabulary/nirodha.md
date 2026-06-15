@@ -1,6 +1,9 @@
 ---
-created: 2026-05-26
+type: yoga-vocabulary
+title: "ニローダ（Nirodha）"
+description: "ニローダ（Nirodha）のサンスクリット語彙エントリ（IAST: Nirodha）"
 tags: [yoga, vocabulary, nirodha, patanjali]
+timestamp: 2026-05-26
 sanskrit: Nirodha
 source: ヨーガ・スートラ 第1章2節
 ---

@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "シャクティ・チャーラナ（śakti-cālana）"
+description: "HYP第3章収録（ムドラー） — シャクティ・チャーラナ（śakti-cālana）の実践法エントリ"
 tags: [yoga, mudra, kundalini, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: ムドラー
 sanskrit: śakti-cālana
-type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
 hyp_section: The Sakti chalana

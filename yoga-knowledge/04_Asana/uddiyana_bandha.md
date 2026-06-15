@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "ウッディヤーナ・バンダ（uḍḍīyāna-bandha）"
+description: "HYP第3章収録（バンダ） — ウッディヤーナ・バンダ（uḍḍīyāna-bandha）の実践法エントリ"
 tags: [yoga, bandha, mudra, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: バンダ
 sanskrit: uḍḍīyāna-bandha
-type: バンダ
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
 hyp_section: The Uddiyana Bandha

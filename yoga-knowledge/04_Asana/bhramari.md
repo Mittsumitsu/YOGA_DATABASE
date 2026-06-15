@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "ブラーマリー（bhrāmarī）"
+description: "HYP第2章収録（プラーナーヤーマ（クンバカ）） — ブラーマリー（bhrāmarī）の実践法エントリ"
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: プラーナーヤーマ（クンバカ）
 sanskrit: bhrāmarī
-type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
 hyp_section: The Bhramari

@@ -1,6 +1,9 @@
 ---
-created: 2026-05-26
+type: yoga-vocabulary
+title: "ヴリッティ（Vṛtti）"
+description: "ヴリッティ（Vṛtti）のサンスクリット語彙エントリ（IAST: Vṛtti）"
 tags: [yoga, vocabulary, vritti, patanjali]
+timestamp: 2026-05-26
 sanskrit: Vṛtti
 source: ヨーガ・スートラ 第1章2節
 ---

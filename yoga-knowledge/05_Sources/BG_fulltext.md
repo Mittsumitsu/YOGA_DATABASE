@@ -1,7 +1,10 @@
 ---
+type: source-text
+title: "Bhagavad Gita (Arnold Translation) — All 18 Chapters"
+description: "原典テキスト：Bhagavad Gita（Sir Edwin Arnold訳、パブリックドメイン）"
+timestamp: 2026-06-15
 source: Bhagavad Gita
 translator: Sir Edwin Arnold
-title: The Song Celestial (Bhagavad-Gita)
 license: Public Domain
 retrieved: 2026-06-14
 gutenberg: https://www.gutenberg.org/ebooks/2388

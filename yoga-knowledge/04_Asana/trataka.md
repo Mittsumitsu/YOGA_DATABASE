@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "トラータカ（trāṭaka）"
+description: "HYP第2章収録（クリヤー（六浄化法）） — トラータカ（trāṭaka）の実践法エントリ"
 tags: [yoga, kriya, satkarma, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: クリヤー（六浄化法）
 sanskrit: trāṭaka
-type: クリヤー（六浄化法）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
 hyp_section: The Tratika

@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "シータリー（śītalī）"
+description: "HYP第2章収録（プラーナーヤーマ（クンバカ）） — シータリー（śītalī）の実践法エントリ"
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: プラーナーヤーマ（クンバカ）
 sanskrit: śītalī
-type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
 hyp_section: Sitali

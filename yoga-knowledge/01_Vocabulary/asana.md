@@ -1,6 +1,9 @@
 ---
-created: 2026-06-14
+type: yoga-vocabulary
+title: "アーサナ（āsana）"
+description: "アーサナ（āsana）のサンスクリット語彙エントリ（IAST: āsana）"
 tags: [yoga, vocabulary, asana, ashtanga, hatha]
+timestamp: 2026-06-14
 sanskrit: āsana
 source: 05_Sources/YS_Johnston_1912_fulltext.md, 05_Sources/HYP_Svatmarama_fulltext.md
 ---

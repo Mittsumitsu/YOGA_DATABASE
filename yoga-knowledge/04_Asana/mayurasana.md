@@ -1,6 +1,9 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "マユーラーサナ（mayūrāsana）"
+description: "HYP第1章収録 — マユーラーサナ（mayūrāsana）の実践法エントリ"
 tags: [yoga, asana, hatha, hyp]
+timestamp: 2026-06-14
 sanskrit: mayūrāsana
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1

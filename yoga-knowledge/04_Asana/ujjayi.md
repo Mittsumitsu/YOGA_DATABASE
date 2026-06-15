@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "ウッジャーイー（ujjāyī）"
+description: "HYP第2章収録（プラーナーヤーマ（クンバカ）） — ウッジャーイー（ujjāyī）の実践法エントリ"
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: プラーナーヤーマ（クンバカ）
 sanskrit: ujjāyī
-type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
 hyp_section: Ujjayi

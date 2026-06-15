@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "ターラカ（tāraka）"
+description: "HYP第4章収録（ムドラー・技法） — ターラカ（tāraka）の実践法エントリ"
 tags: [yoga, mudra, samadhi, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: ムドラー・技法
 sanskrit: tāraka
-type: ムドラー・技法
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 4
 hyp_section: The Taraka

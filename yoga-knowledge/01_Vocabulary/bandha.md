@@ -1,6 +1,9 @@
 ---
-created: 2026-06-14
+type: yoga-vocabulary
+title: "バンダ（bandha）"
+description: "バンダ（bandha）のサンスクリット語彙エントリ（IAST: bandha）"
 tags: [yoga, vocabulary, bandha, hatha, mudra]
+timestamp: 2026-06-14
 sanskrit: bandha
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---

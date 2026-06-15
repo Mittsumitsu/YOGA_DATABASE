@@ -1,6 +1,9 @@
 ---
-created: 2026-05-26
+type: yoga-vocabulary
+title: "アヒムサー（Ahiṃsā）"
+description: "アヒムサー（Ahiṃsā）のサンスクリット語彙エントリ（IAST: Ahiṃsā）"
 tags: [yoga, vocabulary, yama, ashtanga]
+timestamp: 2026-05-26
 sanskrit: Ahiṃsā
 source: ヨーガ・スートラ 第2章30節
 ---

@@ -1,4 +1,8 @@
 ---
+type: source-text
+title: "Hatha Yoga Pradipika (Pancham Sinh Translation)"
+description: "原典テキスト：Hatha Yoga Pradipika（Pancham Sinh訳、パブリックドメイン）"
+timestamp: 2026-06-15
 source: Hatha Yoga Pradipika
 author: Swami Swatmarama
 translator: Pancham Sinh

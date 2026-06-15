@@ -1,7 +1,10 @@
 ---
-created: 2026-05-26
-updated: 2026-06-14
+type: yoga-vocabulary
+title: "プラーナーヤーマ（prāṇāyāma）"
+description: "プラーナーヤーマ（prāṇāyāma）のサンスクリット語彙エントリ（IAST: prāṇāyāma）"
 tags: [yoga, vocabulary, pranayama, ashtanga, hatha]
+timestamp: 2026-05-26
+updated: 2026-06-14
 sanskrit: prāṇāyāma
 source: 05_Sources/YS_Johnston_1912_fulltext.md, 05_Sources/HYP_Svatmarama_fulltext.md
 ---

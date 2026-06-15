@@ -1,6 +1,9 @@
 ---
-created: 2026-06-14
+type: yoga-vocabulary
+title: "ムドラー（mudrā）"
+description: "ムドラー（mudrā）のサンスクリット語彙エントリ（IAST: mudrā）"
 tags: [yoga, vocabulary, mudra, hatha, bandha]
+timestamp: 2026-06-14
 sanskrit: mudrā
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---

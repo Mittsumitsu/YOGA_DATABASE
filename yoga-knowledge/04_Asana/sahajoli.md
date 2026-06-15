@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "サハジョリー（sahajolī）"
+description: "HYP第3章収録（ムドラー（ヴァジュロリーの変形）） — サハジョリー（sahajolī）の実践法エントリ"
 tags: [yoga, mudra, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: ムドラー（ヴァジュロリーの変形）
 sanskrit: sahajolī
-type: ムドラー（ヴァジュロリーの変形）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
 hyp_section: The Sahajoli

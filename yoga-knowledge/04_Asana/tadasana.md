@@ -1,6 +1,9 @@
 ---
-created: 2026-05-26
+type: yoga-asana
+title: "ターダーサナ（tāḍāsana）"
+description: "ターダーサナ（tāḍāsana）の実践法エントリ"
 tags: [yoga, asana]
+timestamp: 2026-05-26
 sanskrit: tāḍāsana
 aliases: [山のポーズ, Mountain Pose]
 ---

@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "ウンマニー（unmanī）"
+description: "HYP第4章収録（状態・技法） — ウンマニー（unmanī）の実践法エントリ"
 tags: [yoga, samadhi, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: 状態・技法
 sanskrit: unmanī
-type: 状態・技法
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 4
 hyp_section: The Unmani

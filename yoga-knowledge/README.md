@@ -1,19 +1,31 @@
 # Yoga Database
 
-原典に根拠を持つヨガ知識ベース。
+原典に根拠を持つヨーガ知識ベース。
 パブリックドメインの一次文献を土台に、
 サンスクリット用語・スートラ・アーサナ・哲学を
-出典付きで管理するObsidian互換のMarkdownデータベース。
+出典付きで管理するベンダー中立のMarkdown知識ベース。
+
+## Format
+
+This knowledge base conforms to
+Open Knowledge Format (OKF) v0.1
+Published by Google Cloud, 2026-06-12
+https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
+
+すべてのエントリは OKF v0.1 フロントマター（`type`, `title`, `description`, `tags`, `timestamp`）を持ち、
+通常のMarkdownリンクでファイル間を相互参照しています。
 
 ## Structure
 
-| フォルダ | 内容 |
-|---|---|
-| 05_Sources/ | 原典フルテキスト |
-| 02_Sutras/ | スートラエントリ |
-| 01_Vocabulary/ | サンスクリット用語 |
-| 03_Philosophy/ | 哲学体系 |
-| 04_Asana/ | アーサナ・実践法 |
+| フォルダ | OKF type | 内容 |
+|---|---|---|
+| 05_Sources/ | `source-text` | 原典フルテキスト（3件） |
+| 01_Vocabulary/ | `yoga-vocabulary` | サンスクリット用語（9件） |
+| 02_Sutras/ | `yoga-sutra` | スートラエントリ（13件） |
+| 03_Philosophy/ | `yoga-philosophy` | 哲学体系（1件） |
+| 04_Asana/ | `yoga-asana` | アーサナ・実践法（46件） |
+
+全体索引: [index.md](index.md)
 
 ## Source Texts
 
@@ -40,4 +52,4 @@ License: CC BY-SA
 
 - すべてのエントリは一次文献の章・節番号に紐づいています
 - 出典が確認できない情報は本文に混入させていません
-- Obsidian WikiLink形式で双方向リンクを維持しています
+- 通常のMarkdownリンクで相互参照（Obsidian非依存）

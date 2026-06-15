@@ -1,8 +1,11 @@
 ---
-created: 2026-06-14
+type: yoga-asana
+title: "アナーハタ・ナーダ（anāhata-nāda）"
+description: "HYP第4章収録（サマーディの実践（ナーダ・ヨーガ）） — アナーハタ・ナーダ（anāhata-nāda）の実践法エントリ"
 tags: [yoga, samadhi, nada, hatha, hyp]
+timestamp: 2026-06-14
+practice_type: サマーディの実践（ナーダ・ヨーガ）
 sanskrit: anāhata-nāda
-type: サマーディの実践（ナーダ・ヨーガ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 4
 hyp_section: On Samadhi（Nada / Arambha / Ghata / Parichaya Avastha）
