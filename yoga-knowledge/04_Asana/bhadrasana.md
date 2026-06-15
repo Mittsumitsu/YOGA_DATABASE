@@ -2,9 +2,7 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: bhadrāsana
-katakana: バドラーサナ
 aliases: [Gorakṣāsana, ゴーラクシャーサナ]
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: The Bhadrāsana
@@ -36,12 +34,12 @@ bhadra（バドラ / 吉祥・善き）＋ āsana（アーサナ / 座法）。
 HYPが「四大アーサナ」として特に挙げるうちの一つ（Siddha・Padma・Simha・Bhadraの四つ）。
 「すべての病を破壊するもの」と称される。
 熟練したヨーギーたちにGorakṣāsana（ゴーラクシャーサナ）とも呼ばれており、HYP著者Svātmārāmaの師系Goraksanāthaとの繋がりを示す。
-修習後、[[01_Vocabulary/nadi|nāḍī]]浄化のための[[01_Vocabulary/mudra|mudrā]]・クンバカの実践が続くとされる。
+修習後、[nāḍī](../01_Vocabulary/nadi.md)浄化のための[mudrā](../01_Vocabulary/mudra.md)・クンバカの実践が続くとされる。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[01_Vocabulary/nadi]]
-- [[01_Vocabulary/mudra]]
-- [[04_Asana/siddhasana]]
-- [[04_Asana/padmasana]]
-- [[04_Asana/simhasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [mudra](../01_Vocabulary/mudra.md)
+- [siddhasana](siddhasana.md)
+- [padmasana](padmasana.md)
+- [simhasana](simhasana.md)

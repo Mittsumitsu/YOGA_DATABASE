@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
 sanskrit: sūrya-bhedana
-katakana: スーリヤ・ベーダナ
-classification: 区分A（HYP確認済み）
 type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -37,7 +35,7 @@ sūrya（スーリヤ / 太陽）＋ bhedana（ベーダナ / 穿つ・貫く）
 前頭洞の浄化・ヴァータの障害の除去・虫下しの効果があるとされる。
 
 ## 関連
-- [[01_Vocabulary/pranayama]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/ujjayi]]
-- [[04_Asana/bhastrika]]
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [ujjayi](ujjayi.md)
+- [bhastrika](bhastrika.md)

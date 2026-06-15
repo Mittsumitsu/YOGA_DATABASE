@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, samadhi, hatha, hyp]
 sanskrit: unmanī
-katakana: ウンマニー
-classification: 区分A（HYP確認済み）
 type: 状態・技法
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 4
@@ -29,10 +27,10 @@ un（ウン / 超えた）＋ manas（マナス / 心）＋ -ī（語尾）。
 *出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 4, The Unmani*
 
 ## 解説
-鼻先の光に視線を固定し眉を少し持ち上げ、[[04_Asana/sambhavi_mudra|Śāmbhavī Mudrā]]と同様に内的にブラフマンを瞑想しながら座る技法。「たちまちウンマニー・アヴァスター（心を超えた状態）が生じる」とHYPが記す。
+鼻先の光に視線を固定し眉を少し持ち上げ、[Śāmbhavī Mudrā](sambhavi_mudra.md)と同様に内的にブラフマンを瞑想しながら座る技法。「たちまちウンマニー・アヴァスター（心を超えた状態）が生じる」とHYPが記す。
 第4章冒頭ではサマーディの同義語として「Rāja Yoga・Unmani・Manonmani・Amaratwa・Laya・Tatwa・Sunya・Parama Pada…」などが列挙されており、ウンマニーはサマーディそのものの別称でもある。
 
 ## 関連
-- [[04_Asana/sambhavi_mudra]]
-- [[04_Asana/taraka]]
-- [[04_Asana/anahata_nada]]
+- [sambhavi_mudra](sambhavi_mudra.md)
+- [taraka](taraka.md)
+- [anahata_nada](anahata_nada.md)

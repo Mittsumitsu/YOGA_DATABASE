@@ -2,7 +2,6 @@
 created: 2026-06-14
 tags: [yoga, vocabulary, mudra, hatha, bandha]
 sanskrit: mudrā
-katakana: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---
 
@@ -58,10 +57,10 @@ HYP第3章の中心主題。10種のムドラーが記される：
 | Vajrolī（ヴァジュロリー） | ムドラー |
 | Śakti Chālana（シャクティ・チャーラナ） | ムドラー |
 
-[[01_Vocabulary/bandha|bandha]]はムドラーの一形態として含まれる。
-[[01_Vocabulary/nadi|nāḍī]]の浄化と[[01_Vocabulary/pranayama|prāṇāyāma]]の深化を目的とする。
+[bandha](bandha.md)はムドラーの一形態として含まれる。
+[nāḍī](nadi.md)の浄化と[prāṇāyāma](pranayama.md)の深化を目的とする。
 
 ## 関連語
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/nadi]]
-- [[01_Vocabulary/pranayama]]
+- [bandha](bandha.md)
+- [nadi](nadi.md)
+- [pranayama](pranayama.md)

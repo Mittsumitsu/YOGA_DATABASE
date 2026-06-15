@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: kūrmāsana
-katakana: クールマーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Kurmāsana
@@ -29,10 +27,10 @@ kūrma（クールマ / 亀・カメ）＋ āsana（アーサナ / 座法）。
 
 ## 解説
 右足首を肛門の左側に、左足首を右側に置く座法。
-[[04_Asana/uttanakurmasana|Uttānakūrmāsana]]（ウッターナ・クールマーサナ）の基礎となる姿勢でもある。
+[Uttānakūrmāsana](uttanakurmasana.md)（ウッターナ・クールマーサナ）の基礎となる姿勢でもある。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/virasana]]
-- [[04_Asana/kukkutasana]]
-- [[04_Asana/uttanakurmasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [virasana](virasana.md)
+- [kukkutasana](kukkutasana.md)
+- [uttanakurmasana](uttanakurmasana.md)

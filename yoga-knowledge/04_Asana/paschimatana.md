@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: paścima-tāna
-katakana: パシュチマ・ターナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Paschima Tāna
@@ -35,7 +33,7 @@ paścima（パシュチマ / 西・後方・背面）＋ tāna（ターナ / 伸
 消化の火（gastric fire）を高め、肥満を減らし、すべての病を治すとされる。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/matsyasana]]
-- [[04_Asana/mayurasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [matsyasana](matsyasana.md)
+- [mayurasana](mayurasana.md)

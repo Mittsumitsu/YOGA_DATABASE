@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, bandha, mudra, hatha, hyp]
 sanskrit: jālandhara-bandha
-katakana: ジャーランダラ・バンダ
-classification: 区分A（HYP確認済み）
 type: バンダ
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -41,11 +39,11 @@ jāla（ジャーラ / 網・格子）＋ dhara（ダラ / 保持・支える）
 ## 解説
 喉を収縮し顎を胸にしっかりと押しつける喉の錠。脳のソーマ（チャンドラ）から下降する甘露（ネクター）がナービー（臍）の火に落ちるのを阻止する。
 16のアードハーラ（生命の要所）を封鎖し、中央回路（Madhya Chakra）を形成する。
-[[04_Asana/uddiyana_bandha|Uḍḍīyāna]]・[[04_Asana/mula_bandha|Mūla Bandha]]とともに三大バンダの一つ。
+[Uḍḍīyāna](uddiyana_bandha.md)・[Mūla Bandha](mula_bandha.md)とともに三大バンダの一つ。
 
 ## 関連
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/uddiyana_bandha]]
-- [[04_Asana/mula_bandha]]
-- [[04_Asana/murchha]]
+- [bandha](../01_Vocabulary/bandha.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [uddiyana_bandha](uddiyana_bandha.md)
+- [mula_bandha](mula_bandha.md)
+- [murchha](murchha.md)

@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, kriya, satkarma, hatha, hyp]
 sanskrit: trāṭaka
-katakana: トラータカ
-classification: 区分A（HYP確認済み）
 type: クリヤー（六浄化法）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -36,8 +34,8 @@ Sanskrit √tṝ / trāṭ（「凝視する・貫く」）に由来。
 HYPは「宝石箱のように秘密にすること」と強調する。
 
 ## 関連
-- [[04_Asana/dhauti]]
-- [[04_Asana/basti]]
-- [[04_Asana/neti]]
-- [[04_Asana/nauli]]
-- [[04_Asana/kapala_bhati]]
+- [dhauti](dhauti.md)
+- [basti](basti.md)
+- [neti](neti.md)
+- [nauli](nauli.md)
+- [kapala_bhati](kapala_bhati.md)

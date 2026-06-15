@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, bandha, hatha, hyp]
 sanskrit: mahā-bandha
-katakana: マハー・バンダ
-classification: 区分A（HYP確認済み）
 type: バンダ／ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -43,11 +41,11 @@ mahā（マハー / 大いなる）＋ bandha（バンダ / 締め・錠）。
 ## 解説
 第3章（十大ムドラー）の第二。左踵を会陰に押しつけ右足を左腿に乗せ、吸気後顎を胸に押しつけ（Jālandhara Bandha）、眉間またはスシュムナーに心を固定してできるかぎり保持してからゆっくり呼気する。
 トリヴェーニー（Iḍā・Piṅgalā・Suṣumnā）を合流させ、心をシヴァの座（眉間）へ運ぶとされる。
-[[04_Asana/maha_mudra|Mahā Mudrā]]・[[04_Asana/maha_vedha|Mahā Vedha]]なしには成果がないとHYPが明言する。
+[Mahā Mudrā](maha_mudra.md)・[Mahā Vedha](maha_vedha.md)なしには成果がないとHYPが明言する。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/maha_mudra]]
-- [[04_Asana/maha_vedha]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [bandha](../01_Vocabulary/bandha.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [maha_mudra](maha_mudra.md)
+- [maha_vedha](maha_vedha.md)

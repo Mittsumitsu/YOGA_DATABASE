@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: matsyāsana
-katakana: マッツャーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Matsya-āsana
@@ -33,6 +31,6 @@ matsya（マッツャ / 魚）＋ āsana（アーサナ / 座法）。
 食欲増進・最重篤な疾病の破壊・クンダリニー覚醒の効果が述べられる。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/dhanurasana]]
-- [[04_Asana/paschimatana]]
+- [asana](../01_Vocabulary/asana.md)
+- [dhanurasana](dhanurasana.md)
+- [paschimatana](paschimatana.md)

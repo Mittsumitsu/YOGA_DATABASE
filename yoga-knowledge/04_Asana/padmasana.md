@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: padmāsana
-katakana: パドマーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Padmāsana
@@ -39,13 +37,13 @@ padma（パドマ / 蓮の花）＋ āsana（アーサナ / 座法）。
 
 ## 解説
 HYPが「四大アーサナ」として特に挙げるうちの一つ（Siddha・Padma・Simha・Bhadraの四つ）。
-「すべての病を破壊するもの」と称され、[[01_Vocabulary/bandha|Mūla Bandha]]と[[01_Vocabulary/pranayama|prāṇāyāma]]との組み合わせでクンダリニーを目覚めさせる座法として詳述される。
+「すべての病を破壊するもの」と称され、[Mūla Bandha](../01_Vocabulary/bandha.md)と[prāṇāyāma](../01_Vocabulary/pranayama.md)との組み合わせでクンダリニーを目覚めさせる座法として詳述される。
 Bhastrika（ベローズ呼吸法）など各種クンバカの基本姿勢としても使用される（HYP第2章）。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[01_Vocabulary/pranayama]]
-- [[01_Vocabulary/bandha]]
-- [[04_Asana/siddhasana]]
-- [[04_Asana/simhasana]]
-- [[04_Asana/bhadrasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [bandha](../01_Vocabulary/bandha.md)
+- [siddhasana](siddhasana.md)
+- [simhasana](simhasana.md)
+- [bhadrasana](bhadrasana.md)

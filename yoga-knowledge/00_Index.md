@@ -7,11 +7,11 @@ tags: [yoga, index, knowledge]
 # 🧘 Yoga Knowledge Index
 
 ## クイックリンク
-- [[01_Vocabulary/README]] — 用語集
-- [[02_Sutras/README]] — スートラ原典
-- [[03_Philosophy/README]] — 哲学体系
-- [[04_Asana/README]] — アーサナ語源
-- [[05_Sources/README]] — 一次ソース
+- [README](01_Vocabulary/README.md) — 用語集
+- [README](02_Sutras/README.md) — スートラ原典
+- [README](03_Philosophy/README.md) — 哲学体系
+- [README](04_Asana/README.md) — アーサナ語源
+- [README](05_Sources/README.md) — 一次ソース
 
 ## 使い方
 カタカナ・日本語・英語のいずれで検索してもヒットするよう設計。

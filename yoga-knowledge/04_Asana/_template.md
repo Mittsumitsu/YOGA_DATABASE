@@ -2,7 +2,6 @@
 created: {{date}}
 tags: [yoga, asana]
 sanskrit: 
-katakana: 
 ---
 
 # 【アーサナ名】（Sanskrit）
@@ -18,5 +17,5 @@ katakana:
 ## 身体的・エネルギー的意図
 
 ## 関連
-- [[関連アーサナ]]
-- [[関連プラーナーヤーマ]]
+- 関連アーサナ
+- 関連プラーナーヤーマ

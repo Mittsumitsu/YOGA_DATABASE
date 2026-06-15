@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: gomukhāsana
-katakana: ゴームカーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Gomukha-āsana
@@ -32,6 +30,6 @@ go（ゴー / 牛）＋ mukha（ムカ / 顔・口）＋ āsana（アーサナ /
 HYPでは「牛の外観を持つ」（having the appearance of a cow）と直接説明される。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/svastikasana]]
-- [[04_Asana/virasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [svastikasana](svastikasana.md)
+- [virasana](virasana.md)

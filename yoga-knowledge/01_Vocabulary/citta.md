@@ -2,7 +2,6 @@
 created: 2026-05-26
 tags: [yoga, vocabulary, citta, patanjali]
 sanskrit: Citta
-katakana: チッタ
 source: ヨーガ・スートラ 第1章2節
 ---
 
@@ -24,13 +23,13 @@ source: ヨーガ・スートラ 第1章2節
 Johnston訳（1912）の趣旨では、本節は「ヨーガとは心（citta）の作用（vṛtti）を統御・止滅（nirodhaḥ）することである」と定義される。citta は、その統御の対象として位置づけられる。
 
 ## 文脈
-[[03_Philosophy/ashtanga|八支則]]全体は、この citta の働きを統御し、最終的に[[02_Sutras/1-2]]で定義される「心の作用の止滅」へと至る実践体系である。citta は単なる「思考」ではなく、感情・記憶・潜在印象を含む心の総体として理解される。
+[八支則](../03_Philosophy/ashtanga.md)全体は、この citta の働きを統御し、最終的に[1-2](../02_Sutras/1-2.md)で定義される「心の作用の止滅」へと至る実践体系である。citta は単なる「思考」ではなく、感情・記憶・潜在印象を含む心の総体として理解される。
 
 ## 関連語
-- [[vritti]]
-- [[nirodha]]
-- [[02_Sutras/1-2]]
-- [[03_Philosophy/ashtanga]]
+- [vritti](vritti.md)
+- [nirodha](nirodha.md)
+- [1-2](../02_Sutras/1-2.md)
+- [ashtanga](../03_Philosophy/ashtanga.md)
 
 ## 関連出典候補（要確認）
 - ヨーガ・スートラ 第1章33節以降（citta-prasādana / 心の浄化）

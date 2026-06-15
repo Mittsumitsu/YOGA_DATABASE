@@ -2,9 +2,7 @@
 created: 2026-05-26
 tags: [yoga, asana]
 sanskrit: tāḍāsana
-katakana: ターダーサナ
 aliases: [山のポーズ, Mountain Pose]
-classification: 区分C（現代名称）
 ---
 
 # ターダーサナ（tāḍāsana）
@@ -27,5 +25,5 @@ tāḍa（ターダ / 山）＋ āsana（アーサナ / 座位・姿勢・ポー
 両足で大地を踏み、背骨を自然に伸ばし、全身の左右差と重心を観察する。立位アーサナの出発点として、安定性と覚醒した姿勢感覚を養う。
 
 ## 関連
-- [[03_Philosophy/ashtanga]]
-- [[01_Vocabulary/pranayama]]
+- [ashtanga](../03_Philosophy/ashtanga.md)
+- [pranayama](../01_Vocabulary/pranayama.md)

@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, kriya, satkarma, hatha, hyp]
 sanskrit: dhauti
-katakana: ダウティ
-classification: 区分A（HYP確認済み）
 type: クリヤー（六浄化法）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -36,9 +34,9 @@ Sanskrit √dhāv（「洗う・清める」）に由来。
 HYPは「過剰な脂肪や痰がある場合にのみ六浄化法を先に行う。そうでない者は行わなくてよい」と述べる。
 
 ## 関連
-- [[01_Vocabulary/pranayama]]
-- [[04_Asana/basti]]
-- [[04_Asana/neti]]
-- [[04_Asana/trataka]]
-- [[04_Asana/nauli]]
-- [[04_Asana/kapala_bhati]]
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [basti](basti.md)
+- [neti](neti.md)
+- [trataka](trataka.md)
+- [nauli](nauli.md)
+- [kapala_bhati](kapala_bhati.md)

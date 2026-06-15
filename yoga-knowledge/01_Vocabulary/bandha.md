@@ -2,7 +2,6 @@
 created: 2026-06-14
 tags: [yoga, vocabulary, bandha, hatha, mudra]
 sanskrit: bandha
-katakana: バンダ
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---
 
@@ -50,9 +49,9 @@ HYP第3章に記述される。主要3バンダは以下の通り：
 | Uḍḍīyāna Bandha（ウッディヤーナ・バンダ） | 腹部 | プラーナをスシュムナーに流す |
 | Jālandhara Bandha（ジャーランダラ・バンダ） | 喉・顎 | 喉のチャンネルを封鎖する |
 
-[[01_Vocabulary/mudra|mudrā]]と密接に関連し、[[01_Vocabulary/nadi|nāḍī]]の浄化および[[01_Vocabulary/pranayama|prāṇāyāma]]の深化に用いられる。
+[mudrā](mudra.md)と密接に関連し、[nāḍī](nadi.md)の浄化および[prāṇāyāma](pranayama.md)の深化に用いられる。
 
 ## 関連語
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/nadi]]
-- [[01_Vocabulary/pranayama]]
+- [mudra](mudra.md)
+- [nadi](nadi.md)
+- [pranayama](pranayama.md)

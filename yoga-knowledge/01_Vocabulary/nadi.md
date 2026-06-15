@@ -2,7 +2,6 @@
 created: 2026-06-14
 tags: [yoga, vocabulary, nadi, hatha, prana]
 sanskrit: nāḍī
-katakana: ナーディー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---
 
@@ -51,11 +50,11 @@ HYPにおける3大ナーディー：
 | Iḍā（イダー） | Chandra（月） | 左の鼻孔から流れる冷・陰のナーディー |
 | Piṅgalā（ピンガラー） | Sūrya（太陽） | 右の鼻孔から流れる熱・陽のナーディー |
 
-ナーディーの浄化（nāḍī-śodhana）は[[01_Vocabulary/pranayama|prāṇāyāma]]の前提であり、
+ナーディーの浄化（nāḍī-śodhana）は[prāṇāyāma](pranayama.md)の前提であり、
 特にナーディー・ショーダナ・プラーナーヤーマ（交互鼻孔呼吸）が推奨される。
-[[01_Vocabulary/bandha|bandha]]と[[01_Vocabulary/mudra|mudrā]]の実践がナーディーの浄化を促進する。
+[bandha](bandha.md)と[mudrā](mudra.md)の実践がナーディーの浄化を促進する。
 
 ## 関連語
-- [[01_Vocabulary/pranayama]]
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/mudra]]
+- [pranayama](pranayama.md)
+- [bandha](bandha.md)
+- [mudra](mudra.md)

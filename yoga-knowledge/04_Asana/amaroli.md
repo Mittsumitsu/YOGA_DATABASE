@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, hatha, hyp]
 sanskrit: amarolī
-katakana: アマロリー
-classification: 区分A（HYP確認済み）
 type: ムドラー（ヴァジュロリーの変形）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -33,10 +31,10 @@ amara（アマラ / 不死・不滅）＋ olī（オリー / 行法）。
 *出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 3, The Amaroli*
 
 ## 解説
-[[04_Asana/vajroli|Vajrolī]]の変形形態で、カーパーリカ派の教義に属する実践。尿の中流を飲む技法（最初と最後は除く）。
+[Vajrolī](vajroli.md)の変形形態で、カーパーリカ派の教義に属する実践。尿の中流を飲む技法（最初と最後は除く）。
 ヴァジュロリーから得たビンドゥを灰と混ぜて身体の主要部位に塗ると「神聖な視力」が得られるとされる。
 
 ## 関連
-- [[04_Asana/vajroli]]
-- [[04_Asana/sahajoli]]
-- [[01_Vocabulary/mudra]]
+- [vajroli](vajroli.md)
+- [sahajoli](sahajoli.md)
+- [mudra](../01_Vocabulary/mudra.md)

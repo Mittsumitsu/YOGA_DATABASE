@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, samadhi, hatha, hyp]
 sanskrit: śāmbhavī-mudrā
-katakana: シャーンバヴィー・ムドラー
-classification: 区分A（HYP確認済み）
 type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 4
@@ -39,11 +37,11 @@ hyp_section: The Sambhavi Mudra
 ## 解説
 内的にブラフマンを志向しながら外的対象物に瞳を向けまばたきせずに保つ眼・意識の技法。「ヴェーダとシャーストラには隠されたムドラー」と位置づけられる。
 心とプラーナを吸収させ、視線を安定させ、外・下・上の何も実際には見ない状態で「すべてを見るかのように」座る。
-[[04_Asana/khechari|Khecarī Mudrā]]と対比される：シャーンバヴィーは心臓を拠所とし、ケーチャリーは眉間を拠所とするが、両者ともに心が虚空（void）に吸収されることで至福をもたらす。
-第4章でアナーハタ・ナーダの聴取（[[04_Asana/anahata_nada|Anāhata Nāda]]）とともにサマーディへの主要な道として示される。
+[Khecarī Mudrā](khechari.md)と対比される：シャーンバヴィーは心臓を拠所とし、ケーチャリーは眉間を拠所とするが、両者ともに心が虚空（void）に吸収されることで至福をもたらす。
+第4章でアナーハタ・ナーダの聴取（[Anāhata Nāda](anahata_nada.md)）とともにサマーディへの主要な道として示される。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[04_Asana/khechari]]
-- [[04_Asana/unmani]]
-- [[04_Asana/anahata_nada]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [khechari](khechari.md)
+- [unmani](unmani.md)
+- [anahata_nada](anahata_nada.md)

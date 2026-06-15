@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, hatha, hyp]
 sanskrit: sahajolī
-katakana: サハジョリー
-classification: 区分A（HYP確認済み）
 type: ムドラー（ヴァジュロリーの変形）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -35,11 +33,11 @@ sahaja（サハジャ / 生来の・自然な）＋ olī（オリー / 行法）
 *出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 3, The Sahajoli*
 
 ## 解説
-[[04_Asana/vajroli|Vajrolī]]の変形形態。ヴァジュロリーの修習後、牛糞の灰を水に混ぜたものを男女ともに身体に塗る実践。
+[Vajrolī](vajroli.md)の変形形態。ヴァジュロリーの修習後、牛糞の灰を水に混ぜたものを男女ともに身体に塗る実践。
 「ヨーギーたちが依拠すべきもの・善をなしモークシャ（解脱）を与える」とされる。
 「怠惰を離れた勇敢な賢者によって達成される」。
 
 ## 関連
-- [[04_Asana/vajroli]]
-- [[04_Asana/amaroli]]
-- [[01_Vocabulary/mudra]]
+- [vajroli](vajroli.md)
+- [amaroli](amaroli.md)
+- [mudra](../01_Vocabulary/mudra.md)

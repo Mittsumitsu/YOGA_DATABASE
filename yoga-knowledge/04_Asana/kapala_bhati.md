@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, kriya, satkarma, pranayama, hatha, hyp]
 sanskrit: kapālabhāti
-katakana: カパーラバーティ
-classification: 区分A（HYP確認済み）
 type: クリヤー（六浄化法）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -34,14 +32,14 @@ kapāla（カパーラ / 頭蓋骨）＋ bhāti（バーティ / 輝く・光る
 
 ## 解説
 六浄化法（Ṣaṭ-Karma）の第六。鍛冶師のふいごのように吸気と呼気を非常に速く繰り返す呼吸法。
-痰の過剰による障害をすべて乾かすとされ、[[01_Vocabulary/pranayama|prāṇāyāma]]の前準備として位置づけられる。
+痰の過剰による障害をすべて乾かすとされ、[prāṇāyāma](../01_Vocabulary/pranayama.md)の前準備として位置づけられる。
 一部のアーチャーリャはプラーナーヤーマだけですべての不純物が除かれると考え、六浄化法を推奨しないとHYPは記す。
 
 ## 関連
-- [[01_Vocabulary/pranayama]]
-- [[04_Asana/dhauti]]
-- [[04_Asana/basti]]
-- [[04_Asana/neti]]
-- [[04_Asana/trataka]]
-- [[04_Asana/nauli]]
-- [[04_Asana/bhastrika]]
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [dhauti](dhauti.md)
+- [basti](basti.md)
+- [neti](neti.md)
+- [trataka](trataka.md)
+- [nauli](nauli.md)
+- [bhastrika](bhastrika.md)

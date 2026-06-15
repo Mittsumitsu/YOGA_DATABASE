@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: svastikāsana
-katakana: スヴァスティカーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Swastika-āsana
@@ -33,6 +31,6 @@ sva（自己）＋ asti（あり・善し）の合成語で「善き兆し」を
 HYPでは「I am going to describe certain āsanas which have been adopted by Munis like Vasistha, etc., and Yogis and Yoginis like Matsyendra, etc.」とした上で最初に挙げられるアーサナのひとつ。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/siddhasana]]
-- [[04_Asana/gomukhasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [siddhasana](siddhasana.md)
+- [gomukhasana](gomukhasana.md)

@@ -3,7 +3,6 @@ created: 2026-05-26
 updated: 2026-06-14
 tags: [yoga, vocabulary, pranayama, ashtanga, hatha]
 sanskrit: prāṇāyāma
-katakana: プラーナーヤーマ
 source: 05_Sources/YS_Johnston_1912_fulltext.md, 05_Sources/HYP_Svatmarama_fulltext.md
 ---
 
@@ -39,15 +38,15 @@ YSでは「吸気と呼気の動きの遮断」として定義され、HYPでは
 > 出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 2, On Pranayama
 
 ## 文脈
-八支則（aṣṭāṅga）の第四支。[[03_Philosophy/ashtanga|ashtanga]]において、[[01_Vocabulary/asana|āsana]]の安定を土台に、外的な身体修習から内的な集中へ移る橋渡しとして位置づけられる。
+八支則（aṣṭāṅga）の第四支。[ashtanga](../03_Philosophy/ashtanga.md)において、[āsana](asana.md)の安定を土台に、外的な身体修習から内的な集中へ移る橋渡しとして位置づけられる。
 
-HYPでは[[01_Vocabulary/nadi|nāḍī]]の浄化を目的として、交互鼻孔呼吸などの技法が詳述される（第2章全体）。
-[[01_Vocabulary/bandha|bandha]]・[[01_Vocabulary/mudra|mudrā]]と組み合わせてプラーナをスシュムナーへ導く。
+HYPでは[nāḍī](nadi.md)の浄化を目的として、交互鼻孔呼吸などの技法が詳述される（第2章全体）。
+[bandha](bandha.md)・[mudrā](mudra.md)と組み合わせてプラーナをスシュムナーへ導く。
 
 ## 関連語
-- [[02_Sutras/2-49]]
-- [[02_Sutras/2-46]]
-- [[01_Vocabulary/asana]]
-- [[01_Vocabulary/nadi]]
-- [[01_Vocabulary/bandha]]
-- [[03_Philosophy/ashtanga]]
+- [2-49](../02_Sutras/2-49.md)
+- [2-46](../02_Sutras/2-46.md)
+- [asana](asana.md)
+- [nadi](nadi.md)
+- [bandha](bandha.md)
+- [ashtanga](../03_Philosophy/ashtanga.md)

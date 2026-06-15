@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, hatha, hyp]
 sanskrit: mahā-vedha
-katakana: マハー・ヴェーダ
-classification: 区分A（HYP確認済み）
 type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -39,12 +37,12 @@ mahā（マハー / 大いなる）＋ vedha（ヴェーダ / 穿つ・貫通）
 *出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 3, The Maha Vedha*
 
 ## 解説
-第3章（十大ムドラー）の第三。[[04_Asana/maha_bandha|Mahā Bandha]]の姿勢で吸気後、喉を閉じ両手を地に押しつけて身体を少し持ち上げ、臀部を地面に軽く打ちつける。これによりプラーナとアパーナがイダーとピンガラーを離れスシュムナーに入る。
+第3章（十大ムドラー）の第三。[Mahā Bandha](maha_bandha.md)の姿勢で吸気後、喉を閉じ両手を地に押しつけて身体を少し持ち上げ、臀部を地面に軽く打ちつける。これによりプラーナとアパーナがイダーとピンガラーを離れスシュムナーに入る。
 老化・白髪・身体の震えを除くとされる。
-[[04_Asana/maha_mudra|Mahā Mudrā]]・[[04_Asana/maha_bandha|Mahā Bandha]]・Mahā Vedhaの三つが「三大秘法」（最大シッディを与える偉大な秘密）。
+[Mahā Mudrā](maha_mudra.md)・[Mahā Bandha](maha_bandha.md)・Mahā Vedhaの三つが「三大秘法」（最大シッディを与える偉大な秘密）。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/maha_mudra]]
-- [[04_Asana/maha_bandha]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [maha_mudra](maha_mudra.md)
+- [maha_bandha](maha_bandha.md)

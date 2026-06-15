@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
 sanskrit: bhastrīkā
-katakana: バストリカー
-classification: 区分A（HYP確認済み）
 type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -43,13 +41,13 @@ bhastrā（バストラー / ふいご・皮袋）＋ -ikā（小辞・女性名
 *出典: 05_Sources/HYP_Svatmarama_fulltext.md — Chapter 2, The Bhastrika*
 
 ## 解説
-八種のクンバカの第五。[[04_Asana/padmasana|Padmāsana]]で座り、鼻孔からふいごのように速い呼吸を繰り返した後、右鼻孔から充満し保持してイダーから呼気する。
+八種のクンバカの第五。[Padmāsana](padmasana.md)で座り、鼻孔からふいごのように速い呼吸を繰り返した後、右鼻孔から充満し保持してイダーから呼気する。
 クンダリニーをすみやかに目覚めさせ、ブラフマー・ヴィシュヌ・ルドラの三つのグランティ（結び目）を打破するとされる強力な技法。
 
 ## 関連
-- [[01_Vocabulary/pranayama]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/padmasana]]
-- [[04_Asana/kapala_bhati]]
-- [[04_Asana/surya_bhedana]]
-- [[04_Asana/sakti_chalana]]
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [padmasana](padmasana.md)
+- [kapala_bhati](kapala_bhati.md)
+- [surya_bhedana](surya_bhedana.md)
+- [sakti_chalana](sakti_chalana.md)

@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, kriya, satkarma, hatha, hyp]
 sanskrit: basti
-katakana: バスティ
-classification: 区分A（HYP確認済み）
 type: クリヤー（六浄化法）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -38,8 +36,8 @@ Sanskrit basti（「膀胱・浣腸」）に由来。
 組織（Dhatus）・感覚器官（Indriyas）・心（mind）を穏やかにし、身体に輝きと調子を与え食欲を増進するとされる。
 
 ## 関連
-- [[04_Asana/dhauti]]
-- [[04_Asana/neti]]
-- [[04_Asana/trataka]]
-- [[04_Asana/nauli]]
-- [[04_Asana/kapala_bhati]]
+- [dhauti](dhauti.md)
+- [neti](neti.md)
+- [trataka](trataka.md)
+- [nauli](nauli.md)
+- [kapala_bhati](kapala_bhati.md)

@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, bandha, mudra, hatha, hyp]
 sanskrit: uḍḍīyāna-bandha
-katakana: ウッディヤーナ・バンダ
-classification: 区分A（HYP確認済み）
 type: バンダ
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -44,8 +42,8 @@ uḍḍīyāna（ウッディヤーナ / 上へ飛ぶ・上昇する）＋ bandh
 6ヶ月の修習で死を征服するとされ、老人をも若返らせるとされる。
 
 ## 関連
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/mula_bandha]]
-- [[04_Asana/jalandhara_bandha]]
-- [[04_Asana/maha_mudra]]
+- [bandha](../01_Vocabulary/bandha.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [mula_bandha](mula_bandha.md)
+- [jalandhara_bandha](jalandhara_bandha.md)
+- [maha_mudra](maha_mudra.md)

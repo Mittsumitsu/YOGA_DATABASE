@@ -8,8 +8,8 @@ tags: [yoga, vocabulary, index]
 ヨガ文献に現れる主要なサンスクリット用語を、IAST表記・カタカナ読み・語源・出典つきで整理する。
 
 ## Entries
-- [[pranayama]] — プラーナーヤーマ（Prāṇāyāma）
-- [[ahimsa]] — アヒムサー（Ahiṃsā）
-- [[citta]] — チッタ（Citta）
-- [[vritti]] — ヴリッティ（Vṛtti）
-- [[nirodha]] — ニローダ（Nirodha）
+- [pranayama](pranayama.md) — プラーナーヤーマ（Prāṇāyāma）
+- [ahimsa](ahimsa.md) — アヒムサー（Ahiṃsā）
+- [citta](citta.md) — チッタ（Citta）
+- [vritti](vritti.md) — ヴリッティ（Vṛtti）
+- [nirodha](nirodha.md) — ニローダ（Nirodha）

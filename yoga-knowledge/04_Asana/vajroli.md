@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, hatha, hyp]
 sanskrit: vajrolī-mudrā
-katakana: ヴァジュロリー・ムドラー
-classification: 区分A（HYP確認済み）
 type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -45,10 +43,10 @@ vajra（ヴァジュラ / 金剛・雷霆）＋ olī（オリー / 行法）＋ 
 ## 解説
 第3章（十大ムドラー）の第九。ビンドゥ（精液/生命精気）の保持・回収に関わる高度な技法。
 「ヨーガの規則を守らなくてもヴァジュロリーを行えば成就に値する」とHYPが明言する。
-[[04_Asana/sahajoli|Sahajolī]]・[[04_Asana/amaroli|Amarolī]]はヴァジュロリーの変形形態としてHYPが説く。
+[Sahajolī](sahajoli.md)・[Amarolī](amaroli.md)はヴァジュロリーの変形形態としてHYPが説く。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[04_Asana/sahajoli]]
-- [[04_Asana/amaroli]]
-- [[04_Asana/viparita_karani]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [sahajoli](sahajoli.md)
+- [amaroli](amaroli.md)
+- [viparita_karani](viparita_karani.md)

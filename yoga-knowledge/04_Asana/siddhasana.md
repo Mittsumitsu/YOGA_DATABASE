@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: siddhāsana
-katakana: シッダーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: The Siddhāsana
@@ -45,15 +43,15 @@ siddha（シッダ / 完成した・成就した者）＋ āsana（アーサナ 
 
 ## 解説
 HYPが「84のアーサナの中で常に修習すべきもの」と明言する最重要アーサナ。
-72,000本の[[01_Vocabulary/nadi|nāḍī]]の不純物を浄化するとされ、バジュラーサナ・ムクタ・アーサナ・グプタ・アーサナとも呼ばれる。
-バンダ（特にムーラ・バンダ・ジャーランダラ・バンダ・ウッディヤーナ）を自然に伴うとされ、[[01_Vocabulary/pranayama|prāṇāyāma]]の修習に最適な座法として推奨される。
+72,000本の[nāḍī](../01_Vocabulary/nadi.md)の不純物を浄化するとされ、バジュラーサナ・ムクタ・アーサナ・グプタ・アーサナとも呼ばれる。
+バンダ（特にムーラ・バンダ・ジャーランダラ・バンダ・ウッディヤーナ）を自然に伴うとされ、[prāṇāyāma](../01_Vocabulary/pranayama.md)の修習に最適な座法として推奨される。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[01_Vocabulary/nadi]]
-- [[01_Vocabulary/pranayama]]
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/bandha]]
-- [[04_Asana/padmasana]]
-- [[04_Asana/simhasana]]
-- [[04_Asana/bhadrasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [mudra](../01_Vocabulary/mudra.md)
+- [bandha](../01_Vocabulary/bandha.md)
+- [padmasana](padmasana.md)
+- [simhasana](simhasana.md)
+- [bhadrasana](bhadrasana.md)

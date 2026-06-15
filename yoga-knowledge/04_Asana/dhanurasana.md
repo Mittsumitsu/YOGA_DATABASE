@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: dhanurāsana
-katakana: ダヌラーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Dhanura āsana
@@ -32,6 +30,6 @@ dhanu（ダヌ / 弓）＋ āsana（アーサナ / 座法・姿勢）。
 HYPでは「身体を弓のように引く」（drawing the body like a bow）と直接説明される。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/matsyasana]]
-- [[04_Asana/mayurasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [matsyasana](matsyasana.md)
+- [mayurasana](mayurasana.md)

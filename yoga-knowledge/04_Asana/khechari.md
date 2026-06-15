@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, hatha, hyp]
 sanskrit: khecarī-mudrā
-katakana: ケーチャリー・ムドラー
-classification: 区分A（HYP確認済み）
 type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -43,10 +41,10 @@ khe（ケ / 空・エーテル）＋ carī（チャリー / 動く者）＋ mudr
 ## 解説
 第3章（十大ムドラー）の第四。舌の裏の靭帯（フレーナム）を徐々に切り伸ばすことで舌を延長し、舌を喉の奥へ反転させ「三つの道（食道・気道・口蓋）」に固定する高度な技法。Vyoma Chakraとも呼ばれる。
 病・死・倦怠・睡眠・飢渇に悩まされなくなるとされ、HYPは「世界に唯一の真のムドラー」と位置づける。
-第4章でも[[04_Asana/sambhavi_mudra|Śāmbhavī Mudrā]]と対比され、眉間でのサマーディへの道として再論される。
+第4章でも[Śāmbhavī Mudrā](sambhavi_mudra.md)と対比され、眉間でのサマーディへの道として再論される。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/sambhavi_mudra]]
-- [[04_Asana/maha_mudra]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [sambhavi_mudra](sambhavi_mudra.md)
+- [maha_mudra](maha_mudra.md)

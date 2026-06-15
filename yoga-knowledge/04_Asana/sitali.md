@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
 sanskrit: śītalī
-katakana: シータリー
-classification: 区分A（HYP確認済み）
 type: プラーナーヤーマ（クンバカ）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 2
@@ -33,9 +31,9 @@ hyp_section: Sitali
 ## 解説
 八種のクンバカの第四。舌を唇の外へ少し突き出して吸気し、クンバカの後に鼻孔からゆっくり呼気する冷却呼吸法。
 疝痛・脾臓肥大・発熱・胆液の障害・飢え・渇きを治し、毒を打ち消すとされる。
-[[04_Asana/sitkari|Sītkārī]]の類似技法。
+[Sītkārī](sitkari.md)の類似技法。
 
 ## 関連
-- [[01_Vocabulary/pranayama]]
-- [[04_Asana/sitkari]]
-- [[04_Asana/bhastrika]]
+- [pranayama](../01_Vocabulary/pranayama.md)
+- [sitkari](sitkari.md)
+- [bhastrika](bhastrika.md)

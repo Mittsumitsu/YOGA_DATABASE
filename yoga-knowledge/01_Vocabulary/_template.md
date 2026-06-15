@@ -2,7 +2,6 @@
 created: {{date}}
 tags: [yoga, vocabulary]
 sanskrit: 
-katakana: 
 source: 
 ---
 
@@ -26,4 +25,4 @@ source:
 この言葉がヨガ体系の中でどう使われるか
 
 ## 関連語
-- [[関連する用語]]
+- 関連する用語

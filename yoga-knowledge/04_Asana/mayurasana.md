@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, asana, hatha, hyp]
 sanskrit: mayūrāsana
-katakana: マユーラーサナ
-classification: 区分A（HYP確認済み）
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1
 hyp_section: Mayura-āsana
@@ -34,6 +32,6 @@ mayūra（マユーラ / 孔雀）＋ āsana（アーサナ / 座法・姿勢）
 HYPでは「あらゆる病をたちまち破壊する」「腹部の障害を取り除く」「過剰に摂取した不適切な食物を消化する」「最も猛毒を破壊する」などの効果が述べられる。
 
 ## 関連
-- [[01_Vocabulary/asana]]
-- [[04_Asana/paschimatana]]
-- [[04_Asana/savasana]]
+- [asana](../01_Vocabulary/asana.md)
+- [paschimatana](paschimatana.md)
+- [savasana](savasana.md)

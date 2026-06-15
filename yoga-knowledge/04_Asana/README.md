@@ -8,4 +8,4 @@ tags: [yoga, asana, index]
 アーサナ名のサンスクリット語源、カタカナ読み、伝統文献での出典有無を整理する。
 
 ## Entries
-- [[tadasana]] — ターダーサナ（Tāḍāsana）
+- [tadasana](tadasana.md) — ターダーサナ（Tāḍāsana）

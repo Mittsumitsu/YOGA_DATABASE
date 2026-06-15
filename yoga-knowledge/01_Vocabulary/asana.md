@@ -2,7 +2,6 @@
 created: 2026-06-14
 tags: [yoga, vocabulary, asana, ashtanga, hatha]
 sanskrit: āsana
-katakana: アーサナ
 source: 05_Sources/YS_Johnston_1912_fulltext.md, 05_Sources/HYP_Svatmarama_fulltext.md
 ---
 
@@ -41,29 +40,29 @@ Sanskrit √ās（「座る・位置する」）＋ -ana（動作名詞語尾）
 ## 文脈
 八支則（aṣṭāṅga）の第三支。YSでは哲学的な「心の安定した基盤」として語られる。
 HYPでは84のアーサナが示されるとされ、Siddhāsana・Padmāsana・Siṃhāsana・Bhadrāsana の4つが特に重要とされる。
-HYPにおいてアーサナは[[01_Vocabulary/pranayama|prāṇāyāma]]の前提条件として位置づけられる。
+HYPにおいてアーサナは[prāṇāyāma](pranayama.md)の前提条件として位置づけられる。
 
 ## 関連語
-- [[02_Sutras/2-46]]
-- [[02_Sutras/2-47]]
-- [[02_Sutras/2-48]]
-- [[01_Vocabulary/pranayama]]
-- [[03_Philosophy/ashtanga]]
-- [[04_Asana/tadasana]]
+- [2-46](../02_Sutras/2-46.md)
+- [2-47](../02_Sutras/2-47.md)
+- [2-48](../02_Sutras/2-48.md)
+- [pranayama](pranayama.md)
+- [ashtanga](../03_Philosophy/ashtanga.md)
+- [tadasana](../04_Asana/tadasana.md)
 
 ### HYP 第1章 区分A確認済みアーサナ
-- [[04_Asana/siddhasana]] — シッダーサナ（HYP最重要）
-- [[04_Asana/padmasana]] — パドマーサナ（四大の一）
-- [[04_Asana/simhasana]] — シンハーサナ（四大の一）
-- [[04_Asana/bhadrasana]] — バドラーサナ（四大の一＝Gorakṣāsana）
-- [[04_Asana/savasana]] — シャヴァーサナ
-- [[04_Asana/svastikasana]] — スヴァスティカーサナ
-- [[04_Asana/gomukhasana]] — ゴームカーサナ
-- [[04_Asana/virasana]] — ヴィーラーサナ
-- [[04_Asana/kurmasana]] — クールマーサナ
-- [[04_Asana/kukkutasana]] — クッカターサナ
-- [[04_Asana/uttanakurmasana]] — ウッターナクールマーサナ
-- [[04_Asana/dhanurasana]] — ダヌラーサナ
-- [[04_Asana/matsyasana]] — マッツャーサナ
-- [[04_Asana/paschimatana]] — パシュチマ・ターナ
-- [[04_Asana/mayurasana]] — マユーラーサナ
+- [siddhasana](../04_Asana/siddhasana.md) — シッダーサナ（HYP最重要）
+- [padmasana](../04_Asana/padmasana.md) — パドマーサナ（四大の一）
+- [simhasana](../04_Asana/simhasana.md) — シンハーサナ（四大の一）
+- [bhadrasana](../04_Asana/bhadrasana.md) — バドラーサナ（四大の一＝Gorakṣāsana）
+- [savasana](../04_Asana/savasana.md) — シャヴァーサナ
+- [svastikasana](../04_Asana/svastikasana.md) — スヴァスティカーサナ
+- [gomukhasana](../04_Asana/gomukhasana.md) — ゴームカーサナ
+- [virasana](../04_Asana/virasana.md) — ヴィーラーサナ
+- [kurmasana](../04_Asana/kurmasana.md) — クールマーサナ
+- [kukkutasana](../04_Asana/kukkutasana.md) — クッカターサナ
+- [uttanakurmasana](../04_Asana/uttanakurmasana.md) — ウッターナクールマーサナ
+- [dhanurasana](../04_Asana/dhanurasana.md) — ダヌラーサナ
+- [matsyasana](../04_Asana/matsyasana.md) — マッツャーサナ
+- [paschimatana](../04_Asana/paschimatana.md) — パシュチマ・ターナ
+- [mayurasana](../04_Asana/mayurasana.md) — マユーラーサナ

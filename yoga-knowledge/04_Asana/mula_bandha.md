@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, bandha, mudra, hatha, hyp]
 sanskrit: mūla-bandha
-katakana: ムーラ・バンダ
-classification: 区分A（HYP確認済み）
 type: バンダ
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -46,8 +44,8 @@ mūla（ムーラ / 根・基底）＋ bandha（バンダ / 締め・錠）。
 常時修習することが推奨される。
 
 ## 関連
-- [[01_Vocabulary/bandha]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/uddiyana_bandha]]
-- [[04_Asana/jalandhara_bandha]]
-- [[04_Asana/sakti_chalana]]
+- [bandha](../01_Vocabulary/bandha.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [uddiyana_bandha](uddiyana_bandha.md)
+- [jalandhara_bandha](jalandhara_bandha.md)
+- [sakti_chalana](sakti_chalana.md)

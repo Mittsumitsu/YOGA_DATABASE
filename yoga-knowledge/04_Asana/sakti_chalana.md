@@ -2,8 +2,6 @@
 created: 2026-06-14
 tags: [yoga, mudra, kundalini, hatha, hyp]
 sanskrit: śakti-cālana
-katakana: シャクティ・チャーラナ
-classification: 区分A（HYP確認済み）
 type: ムドラー
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 3
@@ -48,12 +46,12 @@ hyp_section: The Sakti chalana
 
 ## 解説
 第3章最後のムドラー。クンダリニー（クティランガ・ブジャンギ・イーシュヴァリー・アルンダティーなど多くの異名を持つ）を動かすための総合的実践。
-ムーラーダーラに眠る蛇のようなシャクティを掴み起こすイメージで、毎朝晩1.5時間ピンガラーから吸気してパリダーナ法で行う。[[04_Asana/padmasana|Vajrāsana（Padmāsana）]]で座り[[04_Asana/bhastrika|Bhastrīkā]]を行うことでクンダリニーを速やかに覚醒させる。
+ムーラーダーラに眠る蛇のようなシャクティを掴み起こすイメージで、毎朝晩1.5時間ピンガラーから吸気してパリダーナ法で行う。[Vajrāsana（Padmāsana）](padmasana.md)で座り[Bhastrīkā](bhastrika.md)を行うことでクンダリニーを速やかに覚醒させる。
 40日間の修習で成就が得られるとされ、「72,000のナーディーを洗浄する唯一の方法」と明言される。
 
 ## 関連
-- [[01_Vocabulary/mudra]]
-- [[01_Vocabulary/nadi]]
-- [[04_Asana/padmasana]]
-- [[04_Asana/bhastrika]]
-- [[04_Asana/mula_bandha]]
+- [mudra](../01_Vocabulary/mudra.md)
+- [nadi](../01_Vocabulary/nadi.md)
+- [padmasana](padmasana.md)
+- [bhastrika](bhastrika.md)
+- [mula_bandha](mula_bandha.md)
