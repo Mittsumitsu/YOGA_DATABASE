@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "バドラーサナ（bhadrāsana）"
-description: "HYP第1章収録 — バドラーサナ（bhadrāsana）の実践法エントリ"
+description: "HYP第1章収録（yoga-asana） — バドラーサナ（bhadrāsana）の実践法エントリ"
 tags: [yoga, asana, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 sanskrit: bhadrāsana
 aliases: [Gorakṣāsana, ゴーラクシャーサナ]
 source: 05_Sources/HYP_Svatmarama_fulltext.md

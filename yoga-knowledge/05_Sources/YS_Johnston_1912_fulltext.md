@@ -3,6 +3,7 @@ type: source-text
 title: "Yoga Sutras of Patanjali (Johnston Translation)"
 description: "原典テキスト：Yoga Sutras of Patanjali（Charles Johnston訳、パブリックドメイン）"
 timestamp: 2026-06-15
+practice_type: source-text
 source: Yoga Sutras of Patanjali
 translator: Charles Johnston
 license: Public Domain

@@ -3,7 +3,8 @@ type: yoga-philosophy
 title: "アシュタンガ（Aṣṭāṅga）"
 description: "アシュタンガ（Aṣṭāṅga）のヨーガ哲学エントリ"
 tags: [yoga, philosophy, ashtanga, patanjali]
-timestamp: 2026-05-26
+timestamp: 2026-06-15
+practice_type: yoga-philosophy
 school: パタンジャリ・ヨーガ
 ---
 

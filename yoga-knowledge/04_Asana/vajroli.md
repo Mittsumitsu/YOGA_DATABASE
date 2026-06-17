@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "ヴァジュロリー・ムドラー（vajrolī-mudrā）"
-description: "HYP第3章収録（ムドラー） — ヴァジュロリー・ムドラー（vajrolī-mudrā）の実践法エントリ"
+description: "HYP第3章収録（yoga-asana） — ヴァジュロリー・ムドラー（vajrolī-mudrā）の実践法エントリ"
 tags: [yoga, mudra, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: ムドラー
 sanskrit: vajrolī-mudrā
 source: 05_Sources/HYP_Svatmarama_fulltext.md

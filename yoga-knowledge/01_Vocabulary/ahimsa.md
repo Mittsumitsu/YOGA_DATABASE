@@ -3,7 +3,8 @@ type: yoga-vocabulary
 title: "アヒムサー（Ahiṃsā）"
 description: "アヒムサー（Ahiṃsā）のサンスクリット語彙エントリ（IAST: Ahiṃsā）"
 tags: [yoga, vocabulary, yama, ashtanga]
-timestamp: 2026-05-26
+timestamp: 2026-06-15
+practice_type: yoga-vocabulary
 sanskrit: Ahiṃsā
 source: ヨーガ・スートラ 第2章30節
 ---

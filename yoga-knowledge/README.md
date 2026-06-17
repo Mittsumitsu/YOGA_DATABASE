@@ -19,10 +19,10 @@ https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 
 | フォルダ | OKF type | 内容 |
 |---|---|---|
-| 05_Sources/ | `source-text` | 原典フルテキスト（3件） |
-| 01_Vocabulary/ | `yoga-vocabulary` | サンスクリット用語（9件） |
+| 05_Sources/ | `source-text` | 原典フルテキスト（4件） |
+| 01_Vocabulary/ | `yoga-vocabulary` | サンスクリット用語（11件） |
 | 02_Sutras/ | `yoga-sutra` | スートラエントリ（13件） |
-| 03_Philosophy/ | `yoga-philosophy` | 哲学体系（1件） |
+| 03_Philosophy/ | `yoga-philosophy` | 哲学体系（2件） |
 | 04_Asana/ | `yoga-asana` | アーサナ・実践法（46件） |
 
 全体索引: [index.md](index.md)
@@ -36,6 +36,7 @@ https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 | Yoga Sutras of Patanjali | Charles Johnston | 1912 | Wikisource |
 | Hatha Yoga Pradipika | Pancham Sinh | 1915 | Wikisource |
 | Bhagavad Gita | Edwin Arnold | 1885 | Project Gutenberg |
+| The Yoga Upanishads | G. Srinivasa Ayyangar | 1938 | Internet Archive |
 
 Sanskrit IAST data:
 GRETIL (Göttingen Register of Electronic Texts in Indian Languages)

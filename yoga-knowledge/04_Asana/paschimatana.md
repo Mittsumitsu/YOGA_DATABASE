@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "パシュチマ・ターナ（paścima-tāna）"
-description: "HYP第1章収録 — パシュチマ・ターナ（paścima-tāna）の実践法エントリ"
+description: "HYP第1章収録（yoga-asana） — パシュチマ・ターナ（paścima-tāna）の実践法エントリ"
 tags: [yoga, asana, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 sanskrit: paścima-tāna
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1

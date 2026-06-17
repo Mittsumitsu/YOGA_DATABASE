@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "ケーチャリー・ムドラー（khecarī-mudrā）"
-description: "HYP第3章収録（ムドラー） — ケーチャリー・ムドラー（khecarī-mudrā）の実践法エントリ"
+description: "HYP第3章収録（yoga-asana） — ケーチャリー・ムドラー（khecarī-mudrā）の実践法エントリ"
 tags: [yoga, mudra, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: ムドラー
 sanskrit: khecarī-mudrā
 source: 05_Sources/HYP_Svatmarama_fulltext.md

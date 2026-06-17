@@ -3,7 +3,8 @@ type: yoga-vocabulary
 title: "ナーディー（nāḍī）"
 description: "ナーディー（nāḍī）のサンスクリット語彙エントリ（IAST: nāḍī）"
 tags: [yoga, vocabulary, nadi, hatha, prana]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-vocabulary
 sanskrit: nāḍī
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 ---

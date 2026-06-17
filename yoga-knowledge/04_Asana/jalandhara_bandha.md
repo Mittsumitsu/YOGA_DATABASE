@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "ジャーランダラ・バンダ（jālandhara-bandha）"
-description: "HYP第3章収録（バンダ） — ジャーランダラ・バンダ（jālandhara-bandha）の実践法エントリ"
+description: "HYP第3章収録（yoga-asana） — ジャーランダラ・バンダ（jālandhara-bandha）の実践法エントリ"
 tags: [yoga, bandha, mudra, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: バンダ
 sanskrit: jālandhara-bandha
 source: 05_Sources/HYP_Svatmarama_fulltext.md

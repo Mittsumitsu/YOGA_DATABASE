@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "マッツャーサナ（matsyāsana）"
-description: "HYP第1章収録 — マッツャーサナ（matsyāsana）の実践法エントリ"
+description: "HYP第1章収録（yoga-asana） — マッツャーサナ（matsyāsana）の実践法エントリ"
 tags: [yoga, asana, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 sanskrit: matsyāsana
 source: 05_Sources/HYP_Svatmarama_fulltext.md
 hyp_chapter: 1

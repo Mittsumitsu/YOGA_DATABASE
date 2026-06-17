@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "ウンマニー（unmanī）"
-description: "HYP第4章収録（状態・技法） — ウンマニー（unmanī）の実践法エントリ"
+description: "HYP第4章収録（yoga-asana） — ウンマニー（unmanī）の実践法エントリ"
 tags: [yoga, samadhi, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: 状態・技法
 sanskrit: unmanī
 source: 05_Sources/HYP_Svatmarama_fulltext.md

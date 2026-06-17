@@ -3,6 +3,7 @@ type: source-text
 title: "Bhagavad Gita (Arnold Translation) — All 18 Chapters"
 description: "原典テキスト：Bhagavad Gita（Sir Edwin Arnold訳、パブリックドメイン）"
 timestamp: 2026-06-15
+practice_type: source-text
 source: Bhagavad Gita
 translator: Sir Edwin Arnold
 license: Public Domain

@@ -3,7 +3,8 @@ type: yoga-vocabulary
 title: "チッタ（Citta）"
 description: "チッタ（Citta）のサンスクリット語彙エントリ（IAST: Citta）"
 tags: [yoga, vocabulary, citta, patanjali]
-timestamp: 2026-05-26
+timestamp: 2026-06-15
+practice_type: yoga-vocabulary
 sanskrit: Citta
 source: ヨーガ・スートラ 第1章2節
 ---

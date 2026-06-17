@@ -13,7 +13,9 @@ timestamp: 2026-06-15
 
 - [アヒムサー（Ahiṃsā）](ahimsa.md) — アヒムサー（Ahiṃsā）のサンスクリット語彙エントリ（IAST: Ahiṃsā）
 - [アーサナ（āsana）](asana.md) — アーサナ（āsana）のサンスクリット語彙エントリ（IAST: āsana）
+- [アートマン（Ātman）](atman.md) — アートマン（Ātman）のサンスクリット語彙エントリ（IAST: ātman）
 - [バンダ（bandha）](bandha.md) — バンダ（bandha）のサンスクリット語彙エントリ（IAST: bandha）
+- [ブラフマン（Brahman）](brahman.md) — ブラフマン（Brahman）のサンスクリット語彙エントリ（IAST: brahman）
 - [チッタ（Citta）](citta.md) — チッタ（Citta）のサンスクリット語彙エントリ（IAST: Citta）
 - [ムドラー（mudrā）](mudra.md) — ムドラー（mudrā）のサンスクリット語彙エントリ（IAST: mudrā）
 - [ナーディー（nāḍī）](nadi.md) — ナーディー（nāḍī）のサンスクリット語彙エントリ（IAST: nāḍī）

@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "サハジョリー（sahajolī）"
-description: "HYP第3章収録（ムドラー（ヴァジュロリーの変形）） — サハジョリー（sahajolī）の実践法エントリ"
+description: "HYP第3章収録（yoga-asana） — サハジョリー（sahajolī）の実践法エントリ"
 tags: [yoga, mudra, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: ムドラー（ヴァジュロリーの変形）
 sanskrit: sahajolī
 source: 05_Sources/HYP_Svatmarama_fulltext.md

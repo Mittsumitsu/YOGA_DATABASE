@@ -3,7 +3,8 @@ type: yoga-vocabulary
 title: "ニローダ（Nirodha）"
 description: "ニローダ（Nirodha）のサンスクリット語彙エントリ（IAST: Nirodha）"
 tags: [yoga, vocabulary, nirodha, patanjali]
-timestamp: 2026-05-26
+timestamp: 2026-06-15
+practice_type: yoga-vocabulary
 sanskrit: Nirodha
 source: ヨーガ・スートラ 第1章2節
 ---

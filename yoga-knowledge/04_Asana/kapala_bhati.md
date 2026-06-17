@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "カパーラバーティ（kapālabhāti）"
-description: "HYP第2章収録（クリヤー（六浄化法）） — カパーラバーティ（kapālabhāti）の実践法エントリ"
+description: "HYP第2章収録（yoga-asana） — カパーラバーティ（kapālabhāti）の実践法エントリ"
 tags: [yoga, kriya, satkarma, pranayama, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: クリヤー（六浄化法）
 sanskrit: kapālabhāti
 source: 05_Sources/HYP_Svatmarama_fulltext.md

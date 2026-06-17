@@ -3,7 +3,8 @@ type: yoga-asana
 title: "ターダーサナ（tāḍāsana）"
 description: "ターダーサナ（tāḍāsana）の実践法エントリ"
 tags: [yoga, asana]
-timestamp: 2026-05-26
+timestamp: 2026-06-15
+practice_type: yoga-asana
 sanskrit: tāḍāsana
 aliases: [山のポーズ, Mountain Pose]
 ---

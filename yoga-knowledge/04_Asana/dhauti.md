@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "ダウティ（dhauti）"
-description: "HYP第2章収録（クリヤー（六浄化法）） — ダウティ（dhauti）の実践法エントリ"
+description: "HYP第2章収録（yoga-asana） — ダウティ（dhauti）の実践法エントリ"
 tags: [yoga, kriya, satkarma, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: クリヤー（六浄化法）
 sanskrit: dhauti
 source: 05_Sources/HYP_Svatmarama_fulltext.md

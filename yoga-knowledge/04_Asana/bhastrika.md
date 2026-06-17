@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "バストリカー（bhastrīkā）"
-description: "HYP第2章収録（プラーナーヤーマ（クンバカ）） — バストリカー（bhastrīkā）の実践法エントリ"
+description: "HYP第2章収録（yoga-asana） — バストリカー（bhastrīkā）の実践法エントリ"
 tags: [yoga, pranayama, kumbhaka, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: プラーナーヤーマ（クンバカ）
 sanskrit: bhastrīkā
 source: 05_Sources/HYP_Svatmarama_fulltext.md

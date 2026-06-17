@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "シャーンバヴィー・ムドラー（śāmbhavī-mudrā）"
-description: "HYP第4章収録（ムドラー） — シャーンバヴィー・ムドラー（śāmbhavī-mudrā）の実践法エントリ"
+description: "HYP第4章収録（yoga-asana） — シャーンバヴィー・ムドラー（śāmbhavī-mudrā）の実践法エントリ"
 tags: [yoga, mudra, samadhi, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: ムドラー
 sanskrit: śāmbhavī-mudrā
 source: 05_Sources/HYP_Svatmarama_fulltext.md

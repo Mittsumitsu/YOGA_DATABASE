@@ -1,9 +1,10 @@
 ---
 type: yoga-asana
 title: "マハー・バンダ（mahā-bandha）"
-description: "HYP第3章収録（バンダ／ムドラー） — マハー・バンダ（mahā-bandha）の実践法エントリ"
+description: "HYP第3章収録（yoga-asana） — マハー・バンダ（mahā-bandha）の実践法エントリ"
 tags: [yoga, mudra, bandha, hatha, hyp]
-timestamp: 2026-06-14
+timestamp: 2026-06-15
+practice_type: yoga-asana
 practice_type: バンダ／ムドラー
 sanskrit: mahā-bandha
 source: 05_Sources/HYP_Svatmarama_fulltext.md
