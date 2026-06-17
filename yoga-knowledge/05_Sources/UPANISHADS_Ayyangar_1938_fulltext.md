@@ -72,7 +72,7 @@ Then and for that reason, we presently expound,
 for the sake of the Yati (ascetic), who has controlled
 his senses and is full of the six qualities" of S'ama and
 others, the Advaya-tarakopanisad, (the Upanisad with
-which to attain the Brahman by crossinj^ ovei Samsara
+which to attain the Brahman by crossing ovei Samsara
 by Taraka-yoga). (1)
 
 The Means and the End of Yoga
@@ -114,7 +114,7 @@ three kinds of Laksya (Introspection). (4)
 
 Description of Internal Introspection
 
-Jhere exists, in the middle of the body, Susumna,
+Jhere exists, in the middle of the body, Suṣumṇā,
 the Nadi of the Brahman, of the form of the Sun and
 the effulgence of the Moon. That, taking its rise from
 (the plexus) MuladhSra (Root-support), goes in the
@@ -127,7 +127,7 @@ advaya-tXrakopani^ad 3
 
 fine thread of the lotus-stalk. Having seen it through
 the Mind alone, man is released (from all bondage),
-through the destruction of all sinf^ Should he inces-
+through the destruction of all sins Should he inces-
 santly see, on account of the effulgence of Taraka-yoga,
 a radiance in the specific facial region in front of the
 forehead, (he) becomes a Siddha (accomplished). A
@@ -279,15 +279,15 @@ the great preceptor. Internal Introspection assumes
 sand-petalled lotus, or the lustre of Cit (Consciousness)
 hidden in the cavern of Buddhi (Intelligence), or the
 Turiya-Caitan>a (the fourth Consciousness) abiding m«
-the §odas1inta.' Seeing those (forms) depends on the.
-grace of the good preceptor^ (13)
+the Ṣoḍaśānta.' Seeing those (forms) depends on the.
+grace of the good preceptor (13)
 
 The Description of Acarva
 
 He is the Scarya, who is well-versed in the Vedas, who
 IS a true devotee of Visiju, \vho is devoid of ^ite,
 
-' §o^as'anta, wherein the Turlya-Caitanya is said to abide, is
+' Ṣoḍaśānta, wherein the Turlya-Caitanya is said to abide, is
 evidently a spot sixteen dijfit-lengths over the crest.
 
 8 THE YOGA UPANI$ADS
@@ -388,7 +388,7 @@ burnt away by the blower, so also, the results of
 misdeeds committed by the oi^ans of sense are
 consumed by the holding of the breath (vital airs). (7)
 
-One should burn misdeeds by PrS^SySmas (draw-
+One should burn misdeeds by Prāṇāyāmas (draw-
 ing the breath) and sm by DhSra^iSs (holding the
 breath). Having brought about the destruction of sin,
 one should think only of Rucira (KumbhaJia). (8)
@@ -552,14 +552,14 @@ The Manner of Meditation
 
 Having made the conjunction with the mind, one
 should meditate on the Atman, through his own Atman.
-PrS^ia IS Thirty and a half digit-lengths in its range
+Prāṇa IS Thirty and a half digit-lengths in its range
 (m the ethenal space of the heart), where it is merged
 with the PrSpa-s. This, which is within the range of
 the external PrSpa, is known as the Prapa. (31, 32)
 
 The limit of Breathing
 
-The breaths as reckoned fo^ a day and night are
+The breaths as reckoned for a day and night are
 eighty and a hundred and thirteen thousands and one
 lakh. (33)
 
@@ -759,9 +759,9 @@ I am, that Vasu-deva I am — Thus the Upamsad. (21,22)
 *31st of 108; Kṛṣṇa-yajur-veda. Yoga as the knife cutting obstructions to Brahman.*
 
 
-K$URIKOPANISAD
+Kṣurikopaniṣad
 
-This Upamsad, which is the Thirty-fip^t among
+This Upamsad, which is the Thirty-first among
 the 108 Upanisads and forms part of the Krsna-yajur-
 veda, deals with Yoga as the instrument wherewith the
 obstructions to the knowledge of the Brahman are cut
@@ -814,17 +814,17 @@ dhara and Svadhisthana) (the fixing and withdrawal of)
 the three (mentioned above, should be made). Then
 in that which holds the anus, etc., vtz., the navel region
 (Mapi-pura), he should fix the three (mentioned above)
-till mastery. There is the Nadi, Susumna by name,
+till mastery. There is the Nadi, Suṣumṇā by name,
 surrounded by ten Na^ls, which are red, yellow, black,
 copper-coloured, brown and so »n, very subtle' and
 fine. The fixing (of the three above, till mastery)
-should be made on the white (Susum ^) Nad l. There,
+should be made on the white (Suṣumṇā) Nad l. There,
 
 24 THE YOGA UPAN1§ADS
 
 even as the spider moves along with its web, should
 one make (the three mentioned above) move along
-with the Susum^ia. Thence he should withdraw them
+with the Suṣumṇā. Thence he should withdraw them
 (to be fixed on) the great support of the heart shmmg
 like a blood-red lotus, known as Dahara-pundarlka
 (Anahata) in Vedanta Scriptures. Having broken
@@ -844,18 +844,18 @@ the knot of the heart, etc). (The Yoga tor) the
 j known as Indr^vajra (Indra's bolt). By resorting to
 such Yoga, intensified by meditation, he should cut
 off that (Marman) by Dharanas. Projecting (the
-eyes, the Mind and the Prai^as) in the middle
+eyes, the Mind and the Prāṇas) in the middle
 of the thighs, doing away with Marman, Prana
 and the four-fold Sthula and others, by resorting to
 Yoga, he should, without compunction, cut asunder
 (the obstacle to Yoga). Then should the Yogin purify
 the "group of Nadl&, situated in the interior of the
 throat, the one hundred and one Nadls and the
-transcendent and fixed (Susumra) amidst them. The
+transcendent and fixed (Suṣumṇā) amidst them. The
 
 K§URlKOPANI?AD 25
 
-gu|umjgJ§^laAeiitapJJi£j
+[判読不能：OCR要再確認]
 
 possessed of the properties of Rajas (and Tamas) and
 IS of the form of the Brahman. Ida stands to the left
@@ -865,7 +865,7 @@ the knower of the Veda (the Brahman). There are
 Seventy-two thousand (other) Nadls j the pr ojecting
 of _the_eyes, the mind and the vital airs on every one of
 them I S to be cut oflf by Dhyana-yoga. Only one (the
-Kaivalya in) the Susumna is not cut off. With the
+Kaivalya in) the Suṣumṇā is not cut off. With the
 knife of the brightness of fire, having a sharp edge
 rendered clean by the practice of Yoga, should the
 stout-hearted Yogin cut off, even in this birth, one
@@ -879,7 +879,7 @@ projecting of the eye, the Mind and the Prana through
 the other Nadls should be considered as possessed of
 good and bad qualities. People who have realized
 (the thorough identity of the Brahman with the
-Susumna) reach (the Brahman), nd of rebirth. (11-20)
+Suṣumṇā) reach (the Brahman), nd of rebirth. (11-20)
 
 The Practice of the Yoga and the Person
 Eligible Therefor
@@ -1603,7 +1603,7 @@ The form of the mind is false. The form of the
 intellect is false. Egoism is false. As such, I am
 eternal, perpetual, and originless. Know that the triad
 of bodies IS false. The triad of durations is always
-false. Know ^hat the triad of Guna-s is false. I am
+false. Know that the triad of Guna-s is false. I am
 the pure, true Atman. Know that all scripture is false.
 All the Veda is always false. Know that all S'astra is
 false. I, the Atman of consciousness, am true. Know
@@ -2051,7 +2051,7 @@ thine own Atman. Enjoy thine own Atman thyself.
 
 tejo-bindCpani?ad 61
 
-Take thy stand on thyself, O $ad-anana ! Thyself
+Take thy stand on thyself, O Ṣaḍānana ! Thyself
 satisfied in thine own Atman, direct thy Stman thyself.
 Please the Atman alone. Become a Videha-mukta. —
 Thus the Upanisad. (80, 81)
@@ -3417,7 +3417,7 @@ in the case of quadrupeds and the middle of the belly
 in the case others, surrounded by several Nadl-s. In
 the middle of the body with the four-times-twenty-
 thousand Nadi-s, there is the firmly established
-Susumna-nadl resting in a state of stupor in the
+Suṣumṇā-nadl resting in a state of stupor in the
 middle of the umbilical knot, resembling the fine fibre
 of the lotus-stalk, straight, proceeding upwards up to
 the crevice of the Brahman and with a tube as bright
@@ -3430,7 +3430,7 @@ left nostril. Taking its origin from the same (knot),
 Pingala terminates at the right nostril. Two other
 Na3l-s, Gaip-dhari and Hasti-jihva, also are there, at
 
-the front and rear of the Susumna, proceeding towards
+the front and rear of the Suṣumṇā, proceeding towards
 the~IeTt~"and the right eyes. The Pusa and Yas'asvinT
 Nadl-s, taking their origin only from the same (knot),
 reach the left and right ears. The Alambusa, going
@@ -3452,7 +3452,7 @@ The Vital Airs Circulating in the Nadi-s
 The ten Vital airs, Prana and others which
 circulate in the ten Nadl-s are • Prana, Apana, Samana,
 Udana, Vyana, Naga, Kurma, Krkara, Deva-datta, and
-Dhanarp-jaya. Of these, the five beginning from Pra^ia
+Dhanarp-jaya. Of these, the five beginning from Prāṇa
 are important and of these again, the first two. (Of
 these), to put it otherwise, the Prana alone is the most
 important, as it bears the Jlvatman. The middle of
@@ -3523,7 +3523,7 @@ the (characteristic) Yoga-posture (of Cin-mudra), (the
 Yogin) should practice Pranayama according to the
 prescribed rules. (92-94)
 
-Prai^Syama
+Prāṇāyāma
 
 Expiration (of foul air from the body), then
 Inspiration (of pure air), then purifying the air (with
@@ -3619,7 +3619,7 @@ by Dharana alone of the vital air. (109-113)
 
 Conquest of the Mind by the
 
-$AN-MUKHi-MUDRA
+Ṣaṇ-mukhī-mudrā
 
 Only by holding the mind can the air be held.
 The means to be adopted for firmly establishing the
@@ -3631,7 +3631,7 @@ hold it over the belly. Having bound the ears and the
 other organs with his hands, according to the circum-
 stances of the case, by him who brings his mind under
 his own control by adopting the prescribed methods,
-the Pra^ia will, in virtue of the control over the
+the Prāṇa will, in virtue of the control over the
 
 TRI-S^IKHI-BRAHMANOPANI§AD 109
 
@@ -3642,7 +3642,7 @@ The Course Taken by the Prana
 
 The Prana courses through the two nostrils by
 turns. There are three Nadl-s (Ida, Pingala and
-Susumna). Of these, (the course, through the Susumna-
+Suṣumṇā). Of these, (the course, through the Suṣumṇā-
 nadi, of the Prana is possible only) in the case of
 Yogin-s. In the case of (other) living beings, this
 Prana courses always through the Yamya (right nostril)
@@ -4267,10 +4267,10 @@ adepts in Yoga, O foremost among sages ! (1-5)
 The Enumeration of the NSpi-s
 
 The Nadi situated m the middle of the knot of the
-navel is known as the Susumna. There stand around
+navel is known as the Suṣumṇā. There stand around
 it, O foremost among sages ! Seventy-two Thousand
 Nadl-s. The chief among them are fourteen (in
-number). Susumna, Piiigala, likewise Ida and Saras-
+number). Suṣumṇā, Piiigala, likewise Ida and Saras-
 vatl also ; Pusa, Varuna and Hasti-jihva ; Yas'asvini,
 Alambusa and also Kuhu , Vis'vodara, Payasvinl and
 also S'ankhini ; and Gam-dhara • thus there are the
@@ -4278,7 +4278,7 @@ fourteen chief ones. Of these, three are more impor-
 tant (than the rest) and of the three, one is the most
 important. That is known as the Brahma-na^t by
 those well-versed in Vedanta-lore. O thou of austere
-vow ' the Susumna is firmly attached to the
+vow ' the Suṣumṇā is firmly attached to the
 vertebral column, made up of bones and known as
 Vina-danda (the neck of the Indian harp), up to the
 skull. (5-10)
@@ -4299,9 +4299,9 @@ THE dars'anopani^ad 129
 
 The Position of the NXpi-s
 
-To the left of the Susumna stands the Ida and
+To the left of the Suṣumṇā stands the Ida and
 to the right stands the Pingala. The Sarasvati and
-the Kuhu stand by the sides of the Susumna. The
+the Kuhu stand by the sides of the Suṣumṇā. The
 Gaip-dhara and the Hasti-jihva stand at the rear
 and front of the Ida, and the Pusa and the Yas'asvini
 stand at the rear and front of the Pingala. Be-
@@ -4312,7 +4312,7 @@ Sarasvati is said to be the Yas'asvini ; between the
 Garp-dhara and the Sarasvati is said to be the S'an-
 khini. The Alambusa stands stretching up to the anus
 and reaching the middle of the knot of the navel. To
-the front of the Full-moon-like Susumna is situated
+the front of the Full-moon-like Suṣumṇā is situated
 the Kuhu. The Nadi that is situated below and
 above, stretches as far as the end of the right
 nostril, while the Ida is situated (stretching) as far as
@@ -4382,7 +4382,7 @@ mana-s ! is said to be the work of Deva-datta. (30-34)
 
 The Deities Presiding over the Nadi-s
 
-S'lva is the deity of Susumna ; Han is the deity
+S'lva is the deity of Suṣumṇā ; Han is the deity
 of I^a , Brahman of Pingala , Viraj is of SarasvatT,
 O sage ! of Pusa is Pusan the deity ; of Varuna is
 Vayu the deity ; of the vital air known as Hasti-
@@ -4421,7 +4421,7 @@ the Muladhara (the root-support), O best among the
 enlightened ! then there is said to be the first equinox
 by the devout performers of penance, O best among
 the devout performers of penance ! When the vital air
-called Pra^a enters the cranium, that is said to be the
+called Prāṇa enters the cranium, that is said to be the
 last equinox by the devout performers of penance, who
 are intent on investigating the truth. All inspiration
 and expiration is the passage (of the Sun of Prana
@@ -4769,7 +4769,7 @@ with (the muttering of) the Pranava with the Bindu
 (dot), the man of intellect should, O Brahman ' confine
 it m the middle of the Muladhara. On such confine-
 ment, the fire kindled by the air will be borne aloft
-to the Kundall Again, air through the Susum^iS
+to the Kundall Again, air through the Suṣumṇā
 effects a junction with the fire. By one who practises
 in this manner, will the vital air be conquered in no
 time, (34-43)
@@ -5235,7 +5235,7 @@ so on. (25-29)
 Meditation on the Trinit\ of Gods
 
 One addicted to the worship of the qualified god-
-head should conceive of Maha-vi§nu, who is of the
+head should conceive of Mahā-viṣṇu, who is of the
 colour of the flax Hower, who is firmly established in
 the region of the navel and who has four arms, along
 with the Puraka ; of Brahman, who is the Kamalasana
@@ -5358,15 +5358,15 @@ Thence originate Seventy-two thousand Nadi-s. Of
 these thousands of Nadi-s, seventy-two are spoken of
 (in the Scriptures). Of these again, ten are said to be
 the chief ones, adapted to the passage of vital air
-through them • Ida, Pingala, Susumna the third, Gam-
+through them • Ida, Pingala, Suṣumṇā the third, Gam-
 dharl, Hasti-]ihva, Pusa, Yas'asvinT, Alambusa, Kuhu
 and S'ankhinl thought to be the tenth of them. In this
 manner should always be known the plexus made up
-of the Nadl-s of the Yogm-s. Ida, Pingala and Susum-
-na, these three Nadi-s, are said to be always carrymg
+of the Nadl-s of the Yogm-s. Ida, Pingala and Suṣumṇā
+, these three Nadi-s, are said to be always carrymg
 the vital air and havmg the Moon, the Sun and Fire
 (respectively) as their deities Ida, the Nadi standing
-to the left, Pingala standing to the right, and Susumna
+to the left, Pingala standing to the right, and Suṣumṇā
 standing in the middle, these three are thought of
 as the paths of the vital air, (50-56)
 
@@ -5661,13 +5661,13 @@ oneness with the form of the Paramatman. Thus, in
 this manner, there is liberation. This alone is the
 expedient to be adoped for seeing the Atman. (93 — 15)
 By the vital air reaching the great door (the
-Susumna-randhra) after having recourse to the junction
+Suṣumṇā-randhra) after having recourse to the junction
 of the four roads (the Jalam-dhara-bandha), after passing
 upwards from the triangle (of the Muladhara plexus)
 wherein it stood, is seen the Acyuta (the Paramatman,
 the never-swerving Brahman) (in other words, it is only
 by the entry of the inward vision, the vital air, the
-fire, the mind and the Kundalini into the Susumna-nadi
+fire, the mind and the Kundalini into the Suṣumṇā-nadi
 in the Muladhara can the Paramatman be seen) (94)
 
 Seeing the ParamStman, by the Application
@@ -5706,14 +5706,14 @@ he should move the vital air upwards with the Praijava,
 m the direction of the Ajfta and Mani-pura plex-
 uses (alone), contracting the throat and contracting
 the genitals likewise. Then will be seen the auspicious
-Susum^a-nadi resembling the fibre of the lotus-stalk,
+Suṣumṇā-nadi resembling the fibre of the lotus-stalk,
 taking its origin from the Mul5dhara (and ending in
 
 dhySna-bindupanisad 171
 
 the Kaivalya-nadl). There is the Nada (sound) having
 no distinct form, produced out of the (middle of the)
-Vnja-dan^a (vertebral column) (attached to the Susumna),
+Vnja-dan^a (vertebral column) (attached to the Suṣumṇā),
 resembhng the middle resonance out of the sound
 of the conch and the like. When this sound reaches
 the orifice of Ether (in the cavern of the heart) it
@@ -6215,7 +6215,7 @@ AND PraNAVA without DIFFERENTIATION —
 
 THE Internal Sacrifice
 
-The sacrificial thread is the Pra^iava. One who
+The sacrificial thread is the Praṇava. One who
 betakes himself to the observance of the Brahma-
 yajna is the Brahmana. Those that engage them-
 selves in dwellmg on the Brahman are the gods.
@@ -6648,7 +6648,7 @@ OF THE PRANAVA
 The body of the " A " (of the Praoava) has been
 explained by the expounders of the Vedanta as
 the Rg-veda, the Garha-patya (Fire), the Earth
-and (God) Brahman. The " U " (of the Pra^java)
+and (God) Brahman. The " U " (of the Praṇava)
 has been said to be the Yajur-veda, Antariksa
 (the region of mid- Ether), the Daksipa Fire, so
 also, and the Lord God Vis^u. The " M " (of the
@@ -6670,9 +6670,9 @@ Praoava. (^9)
 200 THE YOGA UPANIgADS
 
 Breaking through the NXpI-s and the Sun by
-Bringing Su§um^X to Bear on Them
+Bringing Suṣumṇā to Bear on Them
 
-That transcendent (Susumna) flame is seen to be
+That transcendent (Suṣumṇā) flame is seen to be
 as subtle as the fibre of the lotus-stalk. That tran-
 scendent Na'4l, resembling the Sun and burstmg through
 the Sun and similarly burstmg asunder the Seventy-
@@ -6731,7 +6731,7 @@ Dhyana and SamSdhi) and taking its stand in
 the seat of the heart, with the four-fold aspects (of
 Vis'va, Tarjasa, PrSjfla and Turiya) engages itself (in
 the investigation of bondage, liberation and their
-effects). When the sphere (of the Susumijff, shining
+effects). When the sphere (of the Suṣumṇā, shining
 at the top of the MnlSdhSra and the triangular
 
 U 26
@@ -6740,7 +6740,7 @@ U 26
 
 Svadhisthana plexuses) in the (physical) body is not
 pierced through by the Ksira-danda (milky-white shaft)
-(of the subtle power of the Susumna) then, in this body,
+(of the subtle power of the Suṣumṇā) then, in this body,
 without rest, the great bird (Haijisa) takes its residence
 at once, (taking hold of the ignorance of the Atman,
 and abides, moving restlessly therein, as long as the
@@ -7034,7 +7034,7 @@ form of the Jfl5na-mudra. (63-66)
 Exposition of the Posture assumed bv
 THE Hamsa
 
-The five (vital) airs, PrS^ia, Af^na, SamSna,
+The five (vital) airs, Prāṇa, Af^na, SamSna,
 UdSna and Vyana, in conjunction with the five inner
 senses of motor-action, are enthused by the strength
 of Kriya-s-'akti (power of doing deeds) ; (the five vital
@@ -7111,9 +7111,9 @@ THE BKAHMA-VIDYOPANI?AD 213
 
 the Haipsa). The ascetic should always meditake on
 the Adho-liftga (the VairSja-tattva) in the first part
-(Mfiladhara-cakra of the Susumi;i3-nadi) ; on the flame
+(Mfiladhara-cakra of the Suṣumṇā-nadi) ; on the flame
 of Fire (in the An-3hata, the innermost Atma-linga) at
-the end (of the SusumiiS-na^T) ; and on the Jyotir-hfiga
+the end (of the Suṣumṇā-na^T) ; and on the Jyotir-hfiga
 in the middle of the brows, with the realization
 " I am He ". (69-80)
 
@@ -7321,7 +7321,7 @@ posture to bo assumed ; what is constituted by Puraka
 (inspiration), Kumbhaka (stabilization of breath)
 and Recaka (expiration), of sixteen, sixty-four and
 thirty-two M5tra-lengths in duration respectively, is
-Pra^fiySma. The withholding of the mind from the
+Prāṇāyāma. The withholding of the mind from the
 objects wherein the senses indulge in functioning, is
 PratyShara. Firmly implanting the Citta (mind) by
 inhibiting it from the objects of desire encompassing it,
@@ -7392,7 +7392,7 @@ Seeing throl'gh Internal Introspection
 
 From the Muladhara onward, till the Brahma-
 randhra is reached, (right through the course of the
-Vlna-dan^a, the \ertebral column), there is the Susumna-
+Vlna-dan^a, the \ertebral column), there is the Suṣumṇā-
 n54l resplendent like the Sun. In the core of it is the
 Kuqcjalinl, resplendent like myriads of lightnirig-streaks
 and as fine as the fibre of the lotus-stalk. (When the
@@ -7623,7 +7623,7 @@ liberated. (3, 4)
 Its Attainment Through the S'ambhavi
 
 (By the Yogin who has assumed the Siddhasana
-posture and the $an-mukhl-mudr5), the region of Fire
+posture and the ṣaṇ-mukhī-mudr5), the region of Fire
 is seen at first. Thereafter the Solar region. In the
 middle thereof the region of the ambrosial Moon. In
 the middle thereof, again, the region of the indivisible
@@ -7693,7 +7693,7 @@ Having accomplished the union of the Prana and
 Apana vital airs, and firmly held the Kumbhaka (by
 the Hatha-yoga method), the yogin should, with the
 firm resolve to have external Introspection at the top
-of the nose, make the $an-mukhT-mudra with the two
+of the nose, make the ṣaṇ-mukhī-mudra with the two
 forefingers and hear the sound of the Pranava and others,
 whereupon his mind would find final repose therein
 (in the Brahman, at the termination of the Nada). (2)
@@ -8495,7 +8495,7 @@ assumed, the man of clear intellect should elongate
 
 atmosphere of four digit-len^ths to twelve digit-lengths,
 
-surrounding the (Susumna) Nadi with such (elongated
+surrounding the (Suṣumṇā) Nadi with such (elongated
 
 vital air) and then should hold it fast with (the aid of)
 
@@ -8511,15 +8511,15 @@ Muhurta-s (of one and a half hour's duration each)
 
 without any fear. Then should the man of clear
 
-intellect slightly draw upwards the Susumria having its
+intellect slightly draw upwards the Suṣumṇā having its
 
 abode m the Kun^all. By such act the Kundalinl would
 
-reach the mouth of her Susumna (Na^l). Then, this
+reach the mouth of her Suṣumṇā (Na^l). Then, this
 
 vital air would quit it and of its own accord reach the
 
-SusumpS. Then should he make the Tapa (Bandha)
+Suṣumṇā. Then should he make the Tapa (Bandha)
 
 in the belly and when the constriction of the throat is
 
@@ -8743,21 +8743,21 @@ Practice of Yoga
 
 Then should the practice of regulating the breath
 be constantly performed by the man of intellect, with
-abiding faith in the truth. In the Susumna the mind
+abiding faith in the truth. In the Suṣumṇā the mind
 , takes its repose. The vital air does not leap forwards.
-When the accumulated impurity (clogging the Susumi^iS''
+When the accumulated impurity (clogging the Suṣumṇā''
 nS[d!) IS completely withered and the passage of vital
-air through the Susumna is effected, by performing
+air through the Suṣumṇā is effected, by performing
 Kevala-kumbhaka therein, then, the Yogm forcibly
 causes the Apana air with the downward course to move
 upwards by constriction, as they say , this is what is
 termed the Mula-bandha. The ApSna having taken an
 upward course goes along with fire to the seat of the
-PrSna (vital air). Then the fire, mixing up the PrS^a
+PrSna (vital air). Then the fire, mixing up the Prāṇa
 and Apana, soon reaches the Kundalinl. The sleeping
 (Kundalini with) the coiled form, being well heated by
 that fire and roused by the flow of air, stretches its
-body in the interior of the mouth of the Susumn3.
+body in the interior of the mouth of the Suṣumṇā.
 
 (62-66)
 
@@ -8867,7 +8867,7 @@ it were the root of the lotus and taken holcf of its tail
 with its mouth, reaches the Brahma-randhra. The
 I»actttioner, after assuming the Padmasana posturet
 i^maising at ease, constricting the anus, sendii^ jgj^
-wards (throngh the Susum^S path) the vital air, shooM
+wards (throngh the Suṣumṇā path) the vital air, shooM
 
 264 THE YOGA UPANI§ADS
 
@@ -9112,7 +9112,7 @@ CHAPTER III
 
 THE MELANA-MANTRA
 
-{Hrim, Bham, Sain, Mam, Pain, Sam, K§am)
+{Hrim, Bham, Sain, Mam, Pain, Sam, Kṣam)
 
 Difference in Seeing due to difference in
 
@@ -9171,9 +9171,9 @@ THE YOGA-K0^IpALY-0PANl§AD 273
 between the Moon (of the Brahma-randhra) and the
 Sun (of the Muladhara). Having known this (that thfe
 Kupdahni is the cause of the bondage of the mind) and
-broken through (the three knots of the) Susumna Nadi
+broken through (the three knots of the) Suṣumṇā Nadi
 and projected the vital air, (the eye and the mind)
-through the middle (of the Susumna Nadl), be should
+through the middle (of the Suṣumṇā Nadl), be should
 make the vital air rest firmly in the Bamdava-sthana
 (the middle of the eyebrows, etc., with the mental con-
 ception, " I am the Is'vara,") and control the breath (by
@@ -9197,7 +9197,7 @@ the Vital Breath is Attained the Viraj-form
 
 Having well known the six Cakra-s, he should enter
 the region of Bliss". He should enter by drawing in
-the vital aii* through that (Susumipa Na4i) alone ^d
+the vital aii* through that (Suṣumṇā Na4i) alone ^d
 
 U 33
 
@@ -9422,7 +9422,7 @@ great Yoga. (6-11)
 
 THE YOGA-cOpXllAlIilY-UPAKI^AD 2^1
 
-Description of the SvXdhi§xhJna and
+Description of the Svādhiṣṭhāna and
 
 OTHER CaKRA-S
 
@@ -9430,7 +9430,7 @@ By the word ' Sva ' is indicated Praria (vital force) ;
 Sv3dhisthSna is the abode of that (vital force). It is
 only from (the Prana-nS(Ji) that abides in the Svadhi-
 8th3na, that the Medhra (genitals) is so called. That
-knot, which is pierced through by the Susumna here,
+knot, which is pierced through by the Suṣumṇā here,
 even as a gem is by a thread, that Cakra in the region
 of the navel is known as the Mani-puraka. Till
 the Jiva discovers in the great Cakra of the Dvada-
@@ -9447,7 +9447,7 @@ resembling the egg of a bird. There take their origin
 seventy-two thousand NSijll-s. Of the thousands of
 N54J-s, seventy-two are specifically mentioned as im-
 portant and as carrying vital air. Of these again, ten
-are noteworthy : the I^S, the PirtgalS, the^ Susum^S
+are noteworthy : the I^S, the PirtgalS, the^ Suṣumṇā
 as the third, the GarpdhSri, the Hasti-)ihva, the
 Pb^, the Yas'asvinl, the AlambusS, the KuhH and
 ^he ^adkhinl as the tenth. This great Cakra of
@@ -9458,7 +9458,7 @@ iiS2 THE YOGA UPAKl^ADS
 The Places of the NXpI-s
 
 The Ida stands on the left side ; the PiAgala stands
-on the right ; the Susumna stands m the middle place ;
+on the right ; the Suṣumṇā stands m the middle place ;
 the Gandharl in the left eye , the Hasti-jihva in the
 right eye ; the Pusa in the right ear ; the Yasasvini in
 the left ear ; the Alambusa in the mouth ; the Kuhu
@@ -9469,7 +9469,7 @@ one occupying an opening. (18-21)
 The Vital Airs that move in the NSpi-s
 AND Their Functions
 
-The Ida, Pingala and Susumna are placed m the
+The Ida, Pingala and Suṣumṇā are placed m the
 pathway of the Prana (vital air) , they always convey
 the Prana (vital air) and have as their presiding deities
 Soma, Surya, and Agni. The vital airs are the Praria,
@@ -9536,14 +9536,14 @@ through the kundalini
 The Kundahni S'akti (vital force), in the upper
 part of the knot (of the navel), is in the form of eight
 coils ; and remains always covering with its face (the
-Susumna Nadi), the orifice leading to the door of the
+Suṣumṇā Nadi), the orifice leading to the door of the
 Brahman, through which orifice is to be reached the
 perfectly safe door leading to the Brahman. The
 great Goddess (the Kundahni) sleeps with her face
 closing that door. Waking by the conjoint action of
 fire and the mind along with the vital air, she, gather-
 ing her body, moves upwards like a needle through
-the Susumna. With the Kui^dahnj, the Yogm should
+the Suṣumṇā. With the Kui^dahnj, the Yogm should
 burst open the door leading to Liberation (through
 attainment of the Brahman), even as the door of the
 the house is burst open with a key. Encasing the
@@ -9558,7 +9558,7 @@ bandha, constricting the anus), filling up the ApSna
 THE YOGA-C0pXMANY-UPANI§AD 285
 
 vital air, (the Yogin) should force it up stage by stage,
-(till at last it becomes one with the Pra^a, vital air) ;
+(till at last it becomes one with the Prāṇa, vital air) ;
 thereafter (by means of Kumbhaka) and in virtue of
 the power (inherent in the Kundalini), gtvmg up the
 functioning of Pi^i^a (in the Kundblini), and applying
@@ -9582,7 +9582,7 @@ in food. \^ The Ku^u^Iini "S'akti is of the form of eight
 coils above the knot of the navel ; she is always for
 enmeshing fools therewith, (if below the knot) and
 bestowing liberation on Yogin-s, (when she reaches
-above the navel, through the Susum^a path)^ (36-44)
+above the navel, through the Suṣumṇā path)^ (36-44)
 
 The Three Bandha-s
 
@@ -9814,7 +9814,7 @@ TURiVOMKARA
 
 The Pranava will tend upwards in the case of the
 enlightened, while in the case of the ignorant it will
-tend downwards. Thus will the Pra^iava stand. He
+tend downwards. Thus will the Praṇava stand. He
 who knows that, is the knower of the Veda. In the case
 of the enlightened, it will go upwards in the form of the
 Anahata, (the Brahman unbroken in the intenor and
@@ -10026,7 +10026,7 @@ for him. (109-113)
 
 THE YOGA-C0pXMA]5IY-UPANISAD 299
 
-By the Practice of the §Afi-MUKHi MudrS is
+By the Practice of the Ṣaṇ-mukhī MudrS is
 NSda Distinctly Manifest
 
 Having assumed the (Siddhasana) posture with
@@ -10465,7 +10465,7 @@ mutter the Pranava with his voice raised to the highest
 312 THE YOGA UPANI5ADS
 
 pitch (of three Matia-s), for the purpose of destroying
-sms accumulated previously. The Pra^tava-mantra
+sms accumulated previously. The Praṇava-mantra
 removes all obstacles and destroys all defects. By
 practice of this kmd is taken the first step to final
 achievement of Yoga. (63, 64)
@@ -10563,10 +10563,10 @@ Then will the stage of familiarity be reached by
 frequent practice. The vital air, intimately associated
 with the Agni (of the Svadhisthana) by means of (the
 Yogin's) effort, assuming the power of the Kundalinl,
-will then enter, along with the fire, the Susumna Na4i
+will then enter, along with the fire, the Suṣumṇā Na4i
 without any obstruction. Along with the vital air,
 the Citta (mind of the Yogin) will also enter the
-Gteat Path (through the Susumtia door). When the
+Gteat Path (through the Suṣumṇā door). When the
 
 THE YOGA-TATTVOPANI§AD 315
 
@@ -10616,7 +10616,7 @@ Ghatika-s, (On doing so) he is not scorched by fire.
 Even if he should enter a pit full of fire, his body will
 not be affected. From the heart on to the middle of
 the eyebrows is said to be the region of Air. Air is
-the $at-kona (figure with six corner-angles formed by
+the ṣaṭ-koṇa (figure with six corner-angles formed by
 placing two isosceles triangles, one above the other, with
 their bases parallel to each other and their apexes point-
 ing one upwards and the other downwards), is of a black
@@ -10728,7 +10728,7 @@ Puraka (inhaled vital air), and obstructed the onflow of
 vital airs firmly by means of the Kantha-mudra (t.e., the
 Jalamdhara-bandha), the (Praria) vital air, completely
 filling the two vessels (Ida and Piftgala Nadl-s) (flows)
-quickly into the Susumna Nadi and throbs there.
+quickly into the Suṣumṇā Nadi and throbs there.
 This IS the Maha-vedha, which is incessantly practised
 by the Siddha-s (accomplished ones). * (115-117)
 
@@ -10750,7 +10750,7 @@ Constnctmg the throat (the Yogin) should conceive
 It as the heart with a firm mtellect. This is known as
 the Jalatpdhara-bandha, the lion of the elephant of
 death. That Bandha, whereby the Prana (vital air) will
-leap upwards into the Susumna Nadl and for that reason
+leap upwards into the Suṣumṇā Nadl and for that reason
 known as the Uddyana Bandha, this is wellknown to
 the Yogm-s. Pressing with the heels, (the Yogin) should
 constrict the genitals firmly, forcing upwards the Apana
@@ -11448,7 +11448,7 @@ state); (for, says the S'ruti, "Those pure ^ouls cross
 the doorway of the Sun (to reach the Para Brahman)."
 (Others, who are mere Yogin-s have recourse to) -the
 second method (of breaking through) the door of the
-Susumija Nadi, which is bright all round and specially
+Suṣumṇā Nadi, which is bright all round and specially
 meant for the purpose, (by rousing the Kun4almi).and
 
 342 THE YOGA UPANI?ADS
@@ -11536,7 +11536,7 @@ by such constriction), will continuously heat the Kun-
 dali. That power capable of deluding the three worlds,
 being heated alive by the fire, will enter the Candra-
 danda (shaft of the Moon) in the interior of the orifice
-of the Susumna Nadi. That (power), along with the
+of the Suṣumṇā Nadi. That (power), along with the
 (introspecting mind), the Prana vital air and the fire,
 pierces through the knot of Brahman, (which forms
 as it were the door leading from the Muladhara) ; then
@@ -11651,7 +11651,7 @@ The Uddiyana-bandha should be performed at the
 close of the Kumbhaka and before the Recaka (ex-
 pulsion of vital air). For the reason that by (such
 Bandha) the Prana (vital air) would spring up m the
-Susumria, this is said to be what is called Uddiyana by
+Suṣumṇā, this is said to be what is called Uddiyana by
 Yogm-s. Uddiyana is always communicated by the
 Guru m the natural course. (The practitioner) should
 practise it without sloth, (whereupon) even an old man
@@ -11695,7 +11695,7 @@ sensiation produced there. By constant practice with
 THE YOGA-ffIKHOPANI§AD 349
 
 the vital air (along with the Kuri^all) will be generated
-a similar sensation in the Susum^a. Thereafter, piercing
+a similar sensation in the Suṣumṇā. Thereafter, piercing
 through the Rudra-granthi, (the Kun^all) then attains
 the character of S'lva, (the Turiya in the Brahma-
 randhra). Their conjunction {t.e., of the Kundali
@@ -11711,16 +11711,16 @@ The Su^umnS forming the Path to Liberation
 AND THE Final Resort of all Time
 
 Even as an elephant will always drink water with
-its trunk, so also the Susumna-nadi will grasp the vital
+its trunk, so also the Suṣumṇā-nadi will grasp the vital
 air through the vertebral column. There are twenty-
 one bright nodules (of flesh) attached to the vertebral
-column, all located along the Susumna, resembling a
+column, all located along the Suṣumṇā, resembling a
 number of gems strung together, (of the size of grains
-of linseed, dispelling the darkness of the Susumga-
+of linseed, dispelling the darkness of the Suṣumṇā-
 path from the Muladhara to the Brahma-randhra, con-
-stituting as It were the joints of the Susumga bamboo,
+stituting as It were the joints of the Suṣumṇā bamboo,
 and within the actual range of experience of Yogm-s
-alone.) The Susumna, which is of the form of 'the
+alone.) The Suṣumṇā, which is of the form of 'the
 universe, (depending as it does on the Brahman, the
 prop of the entire universe) stands established in
 the path of Liberation. Even as all duration is
@@ -11728,30 +11728,30 @@ the path of Liberation. Even as all duration is
 350 THE YOGA UPANISADS
 
 determined with reference to the position of the Sun
-and the Moon, (which bear on the Susumna, all divisions
+and the Moon, (which bear on the Suṣumṇā, all divisions
 of time from the minutest twinkling of the eye to the
 longest Kalpa-s (Aeons) find their repose therein). In
 the practitioner, the vital air (once) in- filled (through
-the Susumna) and held through Kumbhaka there, does
+the Suṣumṇā) and held through Kumbhaka there, does
 not at all go out. (Should it go out by some mistake),
 in the same manner should it be restored to its original
-position in the Susumna, again and again, till it is
+position in the Suṣumṇā, again and again, till it is
 confirmed in its position. This is the characteristic
-(quality) of the hind-door (of the Susumna). That vital
+(quality) of the hind-door (of the Suṣumṇā). That vital
 air in-filled through that door and slightly held in Kum-
 bhaka will enter through the hind path all the parts of the
-body. When it is expelled (through the Susumna owing
+body. When it is expelled (through the Suṣumṇā owing
 to the influence of time and destiny), it is wasted ; when
 It is in-fiUed (again) it nourishes the body. (117-122)
 
 The Acquisition of the Knowledge of the
-Brahman through Susumna-yoga
+Brahman through Suṣumṇā-yoga
 
 He, (whose knowledge of the Stman has as its
 basis the refutation of erroneously attributing the
 quality of the Atman to the mind and the sum-total
 of the results of its functioning), who, by means of his
-(SusumnaKyoga, makes his mind along with the body
+(SuṣumṇāKyoga, makes his mind along with the body
 dissolve in the very (Brahman) wherefrom it had its
 origfin, he alone, devoid of (the slightest touch of)
 individuality and feeling blissful, is liberated from the
@@ -11771,12 +11771,12 @@ liberated, in the absence of the dawning of the real know-
 ledge of the Atman, either from a clear comprehension
 of the Veda or through the grace of the Guru). Even
 as a jackal forcibly sucks up blood of its own accord,
-even so the Brahma-nadi (the Susumna) throws into
+even so the Brahma-nadi (the Suṣumṇā) throws into
 the background the phenomenal world and its re-
 actions ; (thence arises the knowledge of the Brahman
 and simultaneously with it liberation from the delusion
 caused by thmgs other than the Brahman). From
-constant practice of the (Susumna) Yoga (is achieved
+constant practice of the (Suṣumṇā) Yoga (is achieved
 the aforesaid end). Through practice of such Yoga
 and out of the daily assumption of posture and (practice
 of) Bandha, the mmd attams dissolution and the Bindu
@@ -11817,7 +11817,7 @@ Going out with the sound of " Ha " and entering
 again with the sound of " Sa ", this Mantra, vtz.,
 " Hamsa Haipsa " is muttered by all the Jiva-s (in-
 voluntarily). (In the case of Yogin-s,) on account of the
-precept of the Guru and during Susumna (-yoga), the
+precept of the Guru and during Suṣumṇā (-yoga), the
 Japa (prayer) will become reversed. That which be-
 comes thus : VIZ., " So 'ham So 'ham ", is known as
 the Mantr^-yoga. (130-132)
@@ -11894,7 +11894,7 @@ body. Then due to the iniluence of religious merit
 (accumulated during previous births) and by contact
 with his Guru, he will achieve success. The fruit will
 be quickly produced by having recourse to the hind
-door (the Susumna path) and from the practice made
+door (the Suṣumṇā path) and from the practice made
 during the previous birth (the practitioner) will reap
 the fruit at once. (141-143)
 
@@ -11922,13 +11922,13 @@ overlordship over all, liberation while yet
 Living and the Like
 
 There is no final resort (to be had) by the
-Yogin beside the hind (Susum^a) path to liberation,
+Yogin beside the hind (Suṣumṇā) path to liberation,
 reputed as attainable unartificially, through the method
 of Hatha-yoga, along with the dissolution of the
 Jlv5tman and the like, (as borne out by the Vedic
-texts, " Having gone aloft by means of that (Susumm)
+texts, " Having gone aloft by means of that (Suṣumṇā)
 (the Yogin) reaches the state of immortality ", " The
-SusumnS rests on the transcendent (Brahman) flawless
+Suṣumṇā rests on the transcendent (Brahman) flawless
 and of the form of the Brahman " and others).
 Diseases perish even at the commencement (of the
 practice), the dullness bom of the body (perishes) next,
@@ -12204,7 +12204,7 @@ manifested in its subtle form and in the form of the
 (four) Pitha-s, (Kama-rupa, etc , in a gross state). (11, 12)
 
 Expedient to be Adopted for the Attainmfnt
-OF the Pra^ava-Brahman
+OF the Praṇava-Brahman
 
 O Brahman ! (that Prapava), which is pronounced
 by the functioning of the Prana (and Apana vital ajrs),
@@ -12214,7 +12214,7 @@ by the functioning of the Prana (and Apana vital ajrs),
 having thoroughly broken (to tiny pieces) the Bindu-
 pltha (of that Pranava, which is distinct and indistinct
 m its character), in accordance with the precept of the
-Guru, by assuming the §an-mukhl Mudra (and having
+Guru, by assuming the ṣaṇ-mukhī Mudra (and having
 attained the knowledge of the absolute Brahman),
 (when the Yogin approaches) the Nada-linga, (which
 does not, at all times, give any scope for the differentia-
@@ -12645,7 +12645,7 @@ tion ^ of the plexus of the N5di-s. Standing in the
 
 THE YOGA-s'IKHOPANI§AD 377
 
-triangle of the Mul3dhara is the SusumQl of twelve
+triangle of the Mul3dhara is the Suṣumṇā of twelve
 digit-lengths. She, having the appearance of a bamboo
 half-split at the root, is known as the Brahma-na4l-
 The I^ and the Pmgala, which are situated on either
@@ -12870,14 +12870,14 @@ for cultivating it, the method to be adopted therefor
 and the fruit following from listening to it, O Hiranya-
 garbha ! After attentively listening to it, d© cultivate
 it m the right manner. — My salutations to thee, the
-Susumrfi (path), the Kun^alini (power), the nectar
+Suṣumṇā (path), the Kun^alini (power), the nectar
 flowing from the region of the Moon (in the SahasrSra),
 the Unmani state of the mmd, the great power that is
 of the character of Supreme Consciousness." .(1-3)
 
 384 the yoga upanisads
 
-Real Form of the Susumna
+Real Form of the Suṣumṇā
 
 A hundred and one are the Nadl-s of the heart.
 Of these, one goes in the direction of the crest. Going
@@ -12885,7 +12885,7 @@ through that, one attains immortahty The others
 spread out in various directions. There are one hundred
 and one Nadi-s Among these, (one) is known as the
 Para. Free from contamination and of the form of
-the Brahman, the Susumna reposes in the Para. The
+the Brahman, the Suṣumṇā reposes in the Para. The
 lo^ stands to the left and the Pingala to the right.
 Between these two is that exquisite seat He who
 knows that is the knower of the Veda One should
@@ -12897,10 +12897,10 @@ column) bearing up the body Up to the end of the
 long bony frame, it is said, there is the Brahma-nadl
 At the end (of the vertebral column), between the
 I4a and the Pingala, there is the fine tube of the form
-of the Sun, the Susumria, which is called the Brahma-
+of the Sun, the Suṣumṇā, which is called the Brahma-
 nadl by sages. (4-9)
 
-The Susumna, the Main Prop of All
+The Suṣumṇā, the Main Prop of All
 
 All (Nadi-s) reaching all parts (of the body) and
 spreading m all directions, are placed in that (Sus-
@@ -12916,10 +12916,10 @@ letters of the Alphabet, the notes of the musical scale,
 Mantra-s (mystic formulas), the Purapa-s, the Guna-s
 (Rhythm, Mobility and Inertia), all these, in all direc-
 tions, their seed, the Bijatman, and the vital airs,
-their witnesses. The Susumna is a veritable universe
+their witnesses. The Suṣumṇā is a veritable universe
 in the interior (of the body) and everything that could
 be reached by the various tiny Nadi-s is established
-in (the Susumna) which is, so to say, the inmost
+in (the Suṣumṇā) which is, so to say, the inmost
 Atman of all beings. It has its root upwards and
 its branches spreading downwards and can reach every-
 where through the path of the vital air. There are
@@ -12934,12 +12934,12 @@ The Awakening of the Para S'akti
 One should attain liberation, through knowledge of
 what IS higher up, by means of the (Kundalinl) Jlva-
 s'akti, coupled with the vital air. After knowing the
-Susumna (Nadl), (then) bursting through it and making
+Suṣumṇā (Nadl), (then) bursting through it and making
 the vital air pass right through the middle of it, (he)
 should restrain it m the nostril, at the Baindava-sthana
 (between the middle of the eyebrows). In the human
 body there are Seventy-two thousand openings of
-NSdl-s. (Among them), the Susumrja is the power of
+NSdl-s. (Among them), the Suṣumṇā is the power of
 
 U 49
 
@@ -12990,7 +12990,7 @@ OF THE PrAI^IA AND OTHERS IN THE AdHARA-
 
 Bkahman
 
-Some say that the Adhara is (where) the Susumna
+Some say that the Adhara is (where) the Suṣumṇā
 and the Sarasvati (Nadl-s) (are established). As, from
 the Adhara, the Universe takes its origin, so the Universe
 dissolves in that alone. Hence by all kinds of effort
@@ -13023,13 +13023,13 @@ Adhara (the Brahman alone). In the Adhara, (abide)
 all deities. In the Adhara (abide) also all the Veda-s.
 Hence (one) should have recourse to the Adhara. In
 the hind part of the Adhara, there occurs the conflu-
-ence of the three Nadi-s, {Ida, Pmgala and Susumna).
+ence of the three Nadi-s, {Ida, Pmgala and Suṣumṇā).
 By bathing and drinking there, man is deprived of all
 his sins. In the Adhara is the Pas'cima LiAga (inmost
 consciousness), as well as its door (the three knots).
 By bursting through it (the door) alone, one is liberated
 from the bondage of worldly-minded-ness. in the
-hmd part of the Adhara (in the Susumna) are the
+hmd part of the Adhara (in the Suṣumṇā) are the
 Sun and the Moon. Should they be constant, there
 stands the Lord of the Universe, by meditating on
 whom {the Yogin) attains communion with the Brah-
@@ -13051,12 +13051,12 @@ THE YOGA-sTKHOPANIgAD 389
 
 gracing the plexuses). (Yogin-s) restrain (the vital air)
 which (formerly) went out of the Brahma-randhra (the
-SusumnS Na^i), (at first) m the left and right (Ida and
+Suṣumṇā Na^i), (at first) m the left and right (Ida and
 PiAgala Na^l-s) and (thereafter), forcibly bursting
 through the six plexuses (with the three knots m their
 order, then after drinking the nectar flowing out of the
 union of the Sun, the Moon and Fire) enter, through
-the Susumna, the Sahasrara, which is resplendent with
+the Suṣumṇā, the Sahasrara, which is resplendent with
 the Turya and the Turiyatita and seek repose therein.
 Those who enter the Brahma-randhra (thus) attain the
 highest state. (33-34)
@@ -13065,18 +13065,18 @@ Liberation of one Whose Inner Senses are
 Dissolved in the Brahma-randhra
 
 When the Haqisa (the vital air) springs down-
-wards and upwards in the Susumna, when one inces-
+wards and upwards in the Suṣumṇā, when one inces-
 santly causes the Prana vital air to revolve m the
-Susumna, when the vital air of the intelligent (Yogin-s)
-gets steady m the Susumna, by entrance into the Sus-
+Suṣumṇā, when the vital air of the intelligent (Yogin-s)
+gets steady m the Suṣumṇā, by entrance into the Sus-
 umria, the Sun and the Moon will get dissolved. He
 who knows the state of equipoise at that stage, he is
-the real knower of Yoga. When, in the Susumna, the
-current of one's mind is lost, when, m the Susumria,
+the real knower of Yoga. When, in the Suṣumṇā, the
+current of one's mind is lost, when, m the Suṣumṇā,
 the Yogin takes his stand for even a single minute,
-when, in the SusumpS, the Yogin has (full) command
-for half a minute, when, in the Susumpa, the Yogin holds
-fast, as salt in water, when, in the Susum^, the Yogis
+when, in the Suṣumṇā, the Yogin has (full) command
+for half a minute, when, in the Suṣumṇā, the Yogin holds
+fast, as salt in water, when, in the Suṣumṇā, the Yogis
 IS lost, . as milk m water ; then, the knot (of the differ-
 ence between tne Jiva and Is'vara) breaks ; all doubts
 
@@ -13090,22 +13090,22 @@ The Greatness of Su^umi^iS-Yoga
 Bathing in the Ganges and the Ocean and wor-
 shipping the Mani-karnika (at Benares), do not deserve
 even one-sixteenth of (the merit due to) the investi-
-gation of the middle Nadl ( the Susumna). There is
+gation of the middle Nadl ( the Suṣumṇā). There is
 hberation for (one paying) a visit to S'rl-sraila, for one
 who dies at Benares, for drinking the water of Kedara,
 and for having a sight of the middle Nadl (the
-Susumria). Thousands of horse-sacnfices and hundreds
+Suṣumṇā). Thousands of horse-sacnfices and hundreds
 of Vaja-peya-s do not deserve even a sixteenth of (the
 merit due to) Yoga attained by meditating on the
-Susumria. Whichever man discourses on the Susumria
+Suṣumṇā. Whichever man discourses on the Suṣumṇā
 is nd of all sins and will attain eternal Bliss. The
-Susumiria alone is the holiest place of pilgrimage. The
-Susumria alone is the most efficacious prayer. The
-Susumria alone is meditation of the highest order. The
-Susumria alone is the worthiest goal. The vanouakinds
+Suṣumṇā alone is the holiest place of pilgrimage. The
+Suṣumṇā alone is the most efficacious prayer. The
+Suṣumṇā alone is meditation of the highest order. The
+Suṣumṇā alone is the worthiest goal. The vanouakinds
 of sacrifices, gifts, vows and austere observances do not
 deserve even a sixteenth part of (the merit due to) Yoga
-attained by meditating on the Susumna. (41-46)
+attained by meditating on the Suṣumṇā. (41-46)
 
 Clarification of the Respective Positions
 Assumed by the Power of Supreme Conscious-
@@ -13279,7 +13279,7 @@ control along with the Mind
 
 Having thoroughly come to know of the six plex-
 uses, the mind of one should enter that comfortable
-region (in the mterior of the Susumna). Having entered
+region (in the mterior of the Suṣumṇā). Having entered
 It, after drawing in the vital air, he should similarly
 place (the mind and vital air) higher up. He should
 practise well with the vital air, the Bmdu, so also the
@@ -14656,16 +14656,16 @@ The Plexus of NXpi-s
 There alone is situated the twelve-spoked plexus
 of Nadl-s, wherewith the body is held (in its normal
 condition). There abides the Kun^alT, concealing with
-her face the orifice of the SusumrS leading to the
-Brahman. From the Susumna (branches out one
+her face the orifice of the Suṣumṇā leading to the
+Brahman. From the Suṣumṇā (branches out one
 spoke formed by) the Alambusa and the Kuhu Nadi-s
 abiding there. In the pair forming another spoke are
 the Varupi and the Yas'asvini. In the right spoke
-of the Susumna is the Pingala. Between the spokes
+of the Suṣumṇā is the Pingala. Between the spokes
 are in order, the Pusa and the Payasvinl. In the hind
-spoke of the Susumna, there stands the Sarasvati Na4T,
+spoke of the Suṣumṇā, there stands the Sarasvati Na4T,
 and the S'ankhini and the Gaipdhari stand between the
-two. To the left of the SusumijS there abides the
+two. To the left of the Suṣumṇā there abides the
 Nadi known as the Ida. Thereafter the Hasti-jihva
 and then the Vis'vodari stand, the Nadi-s (named
 above) standing in the spokes of the plexus, only in
@@ -14675,7 +14675,7 @@ When filled with vital air these Nadi-s (of different
 colours) stand like a piece of cloth. The place corres-
 ponding to the middle of the cloth, is known as the
 plexus of the navel. The Jvalanti, the Nada-rupini,
-the Para-randhra and the Susumpa, are knqwn as the
+the Para-randhra and the Suṣumṇā, are knqwn as the
 NadadhSra (support of the Nada) and tliese four are
 filled with rare gems. The middle of the orifice of
 the Brahman is always closed by the Kun4ali. In this
@@ -14731,9 +14731,9 @@ TO AcguiRE Bodily Robustness and
 Strength
 
 Having well fixed up the Bindu (the mind) in the
-(Susumna) path, and (by constricting) the Jivana
+(Suṣumṇā) path, and (by constricting) the Jivana
 (Muladhara), causing the air therein to blaze forth and
-thereby drying up the humour (m the Susumna, by
+thereby drying up the humour (m the Suṣumṇā, by
 means of the fire aided by the vital air and stagnating
 the Prana vital air and the like therein), the Yogin's
 body would become robust. He should constrict
@@ -14744,7 +14744,7 @@ own Atman (at the junction of the Prana, Apana and
 Sam5na vital airs) as the S'ri of knowledge and
 immersing it in the nectar, should commence Ithe
 performance of Kumbhaka, as much as his strength
-would permit, m the middle part of the (Susumi^)
+would permit, m the middle part of the (Suṣumṇā)
 door. Then, out of the complete blending otthe Prapa
 and ApSna, he should conceive (of the Prapa along
 with the UdSna), with a view to their ascent upward.
@@ -14773,13 +14773,13 @@ Samputa-yoga in a Nut-shell
 This Bandha has been prescribed for all the Na<Ji-s.
 By virtue of the influence of this Bandha, the deity
 (the inmost consciousness) becomes clearly manifest.
-This Bandha of the Catus-patha, (wherein the Susumna,
+This Bandha of the Catus-patha, (wherein the Suṣumṇā,
 the I^, the Pingala and the Kuhu Nadi-s attain their
 oneness, this meeting place of the four paths, which
 depends on the Muladhara), (i.e., the Mula-bandha),
 causes obstruction to the three paths (of the I^,
 Pingala a<nd^ Kuhu NSfijil-s), by bursting open one path
-(vtz., the Susumna of the four paths) through which
+(vtz., the Suṣumṇā of the four paths) through which
 Siddha-s (accomplished Yogin-s) have reached their
 goal (of attaining the state of the Brahman). Causing
 the Udana vital air to ascend along with the PrSpa
@@ -14792,7 +14792,7 @@ bandha as well), this Bandha causes obstfuction to all
 the N34I-S and goes upwards. This is called the Yoga
 in a nut-shell, (as during the process, the Prana, along
 with the KuQi^linl, the introspecting mind, and fire
-moves upwards through the Susumna path and reaches
+moves upwards through the Suṣumṇā path and reaches
 the SahasrSra-cakra) and is also considered to be the
 Mula-bandha. Thus by the practice of Yoga, through
 this (Yoga in a nut-shell) alone, the three Bandha-s are
@@ -14901,7 +14901,7 @@ knots of Brahman, Visnu and Rudra) and thus, by
 means of the three-knot -piercing Yoga, having attained
 the four Pitha-s, occurring amidst the six centres of
 Energy, MulSdhSra and others), in the face of the
-Susumna along with his accessories, {vtz., the Prana vital
+Suṣumṇā along with his accessories, {vtz., the Prana vital
 air, Kundahnl, the introspecting mind and fire) should
 thereafter become completely absorbed in the medi-
 tation of (the Turiya-caitanya seated in the Sahasrara
@@ -14938,7 +14938,7 @@ thereafter, for the Yogin there is the accomplishment
 of the Vedhaka-yoga, (and simultaneously with the
 dawning of the knowledge that there is nought beyond
 the Brahman, he becomes blessed). In the region of
-the Susumna Nadi shining in all its glory between the
+the Suṣumṇā Nadi shining in all its glory between the
 I(jla and the Pingala, by havmg recourse to Mudra and
 Bandha (spoken of above), (the Yogm) should push
 upwards the vital air (and bring about the piercmg of
@@ -14956,7 +14956,7 @@ three ways (aforesaid), (the Yogin attains the fruits
 mentioned against each). Like the unbroken stream
 of oil and the long resounding chiming of a bell, the
 topmost note of the Pranava cannot be uttered. He
-who knows that, is the knower of the Veda. The §hort
+who knows that, is the knower of the Veda. The short
 
 446 THE YOGA UPANISADS
 
@@ -14979,7 +14979,7 @@ Karana-s (mind, speech and body), wherein (the novice)
 begins to function internally, that is known as Aram-
 bha. That is known by wise men as the Ghata stage,
 wherein the vital air, after filling the body, through the
-nether (Susumna path) and piercing through (the three
+nether (Suṣumṇā path) and piercing through (the three
 Granthi-s), firmly takes its stand. That is known as
 the Paricaya stage, wherein the vital air, which (being
 endowed with vitality) is alive and (owing to the
@@ -15295,14 +15295,14 @@ The Fourteen Nadj-s
 
 Bearing on the Kundalini situated m the middle,
 there are fourteen important Nadi-s. The fourteen are
-as follows : the Ida, the Pifigala, the Susumna, the
+as follows : the Ida, the Pifigala, the Suṣumṇā, the
 Sarasvati, the Varuni, the Pusa, the Hasti-jihva, the
 Yas'asvinl, the Vis'vodara, the Kuhu, the S'aiikhini, the
 Payasvinl, the Alambusa and the Gaipdharl Nadi-s. (9)
 
-The Susumna Nadi
+The Suṣumṇā Nadi
 
-There (is) the Susumna, which is known as the
+There (is) the Suṣumṇā, which is known as the
 Vis'va-dharini (the prop of the Universe) and the
 Moksa-marga (the pathway to liberation). Attached
 to the vertebral column, behind the anus and known
@@ -15311,9 +15311,9 @@ becomes distinct, subtle and all-pervading (10)
 
 The Places of the Other NadI-s Around the
 
-Susumna
+Suṣumṇā
 
-To the left part of the Susumna, there stands the
+To the left part of the Suṣumṇā, there stands the
 Ida. To the right, the Pifigala. The Moon traverses
 the Id5. The Sun, the Pingala. The Moon is of the
 form of darkness (Inertia). The Sun is of the form of
@@ -15322,13 +15322,13 @@ the Moon the nectar- position. The two alone occupy
 
 THE s^lSipiLYOPANI§AD 457
 
-all time. The Susumija enjoys all time. At the back
-and the side of the Susumna, are the Sarasvati and the
+all time. The Suṣumṇā enjoys all time. At the back
+and the side of the Suṣumṇā, are the Sarasvati and the
 Kuhu. Between the Yas'asvmi and the Kuhu is esta-
 blished the Varunl. Between the Pusa and the Saras-
 vati IS the Payasvini. Between the Gaipdhan and the
 Sarasvati is the Yas'asvmi. In the middle of the knot
-of the navel is the Alambusa. In front of the Susumna,
+of the navel is the Alambusa. In front of the Suṣumṇā,
 to the end of the genitals is the Kuhu. Below and
 above the Kundalinl, the Varunl courses in all direc-
 tions. The gentle Yas'asvmi courses as far as the big
@@ -15525,7 +15525,7 @@ form £>f the Pranava. (3, 4)
 
 THE s'lNDILYOPANIgAD 463
 
-The Mode of Practising the Pra^iava
+The Mode of Practising the Praṇava
 
 In-filhng the air from outside, through the Ida,
 conceiving the syllable ' A ' with sixteen Matra-s, with
@@ -15539,12 +15539,12 @@ agam practice in the (aforesaid) order. (5)
 KHANPA VII
 
 The Pranayam\ Performed with the Sole
-Purpose of Purifying the Susumna Nadi
+Purpose of Purifying the Suṣumṇā Nadi
 
 Then, with a firm posture, the Yogin, possessed
 of self-control, partaking of temperate and wholesome
 food, for the purpose of drying up the impurities re-
-maining in the Susumna Nadi, assuming the Padma-
+maining in the Suṣumṇā Nadi, assuming the Padma-
 sana posture, in-filling the vital air through the Moon
 (Ida), holding it in Kumbhaka, as far as it lies ift his
 power and expelling it through the Surya (Pingala),
@@ -15630,7 +15630,7 @@ freely, after bursting through the mouth of the SusujTuia
 466 THE YOGA UPANI^ADS
 
 Na^l. When the vital air courses through the middle
-{of the Susumpa), there is generated the fixity of the
+{of the Suṣumṇā), there is generated the fixity of the
 mind. The state of intense fixity of the mind, that
 alone will be the ecstatic state of the mind. (8-10)
 
@@ -15905,7 +15905,7 @@ U60
 of the tongue, when the Prana reaches the crevice (of
 the Brahman) which is above, the throbbing of the
 Prana is suspended. When (on account of the adoption
-of the $an-mukhl Mudra), (external and internal) percep-
+of the ṣaṇ-mukhī Mudra), (external and internal) percep-
 tion has been dropped and by sheer practice the Prana
 reaches (the Sahasrara plexus of) the Dva-das'anta,
 above the palate, through the orifice above, the throb-
@@ -15942,7 +15942,7 @@ the throbbing of the Prana is suspended. (29-36)
 
 Reaching the Highest State, through the
 
-BURSTING Open of the Susumna Nadi, by
+BURSTING Open of the Suṣumṇā Nadi, by
 
 Means of Kumbhaka
 
@@ -15956,7 +15956,7 @@ venly liberated. Should that power sleep in the portion
 above the throat, that will conduce to the liberation of
 the Yogin-s. Should it be below (the throat), that will be
 for the bondage of the ignorant. Should he adopt the
-Susumna course, giving up the two courses of the Ida
+Suṣumṇā course, giving up the two courses of the Ida
 (and the Pingala), then (would he reach), the highest
 state of Visnu. (36/1-4)
 
@@ -15964,7 +15964,7 @@ Rule relating to the Entrance of*the
 
 PrSna along with the Mind into
 
-the Susumna
+the Suṣumṇā
 
 All practice of the (control of) vital c^ir, (the Yogin)
 should practise along with the mind. The functioning
@@ -15977,12 +15977,12 @@ functionmg of) Visnu (the Prana vital air) during day-
 time (in the solar Nadj, the Pingala) ; so also should
 he not worship (allow the functioning) during night
 (in the lunar Nadi, the Ida). He should worship Visnu
-(m the Susumna Nadi) and should not so worship
+(m the Suṣumṇā Nadi) and should not so worship
 both night and day. (37, 38)
 
 Attainment of the Khe-carI Mudra
 
-There stands the Nadi (Susumna), which is the cause
+There stands the Nadi (Suṣumṇā), which is the cause
 of generating knowledge (of the Viraj and others, in the
 Muladhara, Anahata, Vis'uddhi, Ajfia and Sahasrara to
 the Yogin) and which is conjoint with the five streams
@@ -15990,7 +15990,7 @@ of the Vira] up to the Turiyatita. Therein is the Khe-cari
 Mudra, non-determinate in form. Do thou attain it, O
 S'andilya, (out of my grace). The vital air remaining
 in the left and right (Ida and Pingala) Nadi-s, flows
-through the middle (Susumna Nadi). There will stand,
+through the middle (Suṣumṇā Nadi). There will stand,
 in that spot, the Khe-carl Mudra without doubt. The
 void between the Ida and the Pingala will also grasp
 the vital air. Where stands the Khe-carl Mudra, there
@@ -16587,7 +16587,7 @@ forcing the vital air upwards from the MulSdhara,
 then mixing the fire, the Prana and the Apana in the
 triangle of" the Muladhara, rousing the Kundalini and
 thereafter forcing open the knot of the Brahman
-formiftg the door of the Susumna N5dl, in the Mul5-
+formiftg the door of the Suṣumṇā N5dl, in the Mul5-
 dhara, entering the MQladhara plexus, meditating on
 the Viraj or its Turya), then circumambulating the
 six-p^^iled Svadhisthana thrice, then reaching the
@@ -16795,7 +16795,7 @@ the'^jreaking (of the heart and the lotus of the heart
 THE HAlJfSOPANISAt) 501
 
 blooms). With the fourth the h6ad begins to shake.
-(When the practitioner with the $ari-mukhi-mudra
+(When the practitioner with the ṣaṇ-mukhī-mudra
 performs Kumbhaka and the vital air has entered the
 Ajfia-cakra, the shaking of the head is caused)'. With
 the fifth, the palate streams forth (saliva). With the
